@@ -53,7 +53,7 @@ export default function HeroCarousel() {
   }, []);
 
   return (
-    <div className="relative h-screen w-full overflow-hidden bg-black font-sans">
+    <div data-lenis-prevent className="relative h-screen w-full overflow-hidden bg-black font-sans">
       {HIGHLIGHTS.map((slide, index) => {
         const isActive = index === currentIndex;
         return (

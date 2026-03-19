@@ -16,7 +16,7 @@ export default function Footer() {
               <span className="text-[var(--color-brand-yellow)] tracking-[0.4em] uppercase text-xs font-bold mb-8">Begin Your Journey</span>
               <h2 className="text-5xl md:text-7xl font-light text-[var(--color-brand-cream)] mb-12 leading-none">
                 Curate the <br />
-                <span className="font-fancy text-[var(--color-brand-yellow)] text-[5rem] md:text-[7rem] lg:text-[8rem] lowercase block mt-2 ml-[-0.1em]">extraordinary</span>
+                <span className="font-fancy text-[var(--color-brand-yellow)] text-[3rem] md:text-[7rem] lg:text-[8rem] lowercase block mt-2 ml-[-0.1em]">extraordinary</span>
               </h2>
               
               {/* Contact Information */}
@@ -37,14 +37,12 @@ export default function Footer() {
                 <h4 className="text-[var(--color-brand-cream)]/40 uppercase tracking-[0.2em] text-xs font-bold mb-2 md:mb-6">Escapes</h4>
                 <Link href="/tours/international" className="text-sm text-[var(--color-brand-cream)]/80 hover:text-[var(--color-brand-yellow)] transition-colors">International</Link>
                 <Link href="/tours/domestic" className="text-sm text-[var(--color-brand-cream)]/80 hover:text-[var(--color-brand-yellow)] transition-colors">Domestic</Link>
-                <Link href="/tours" className="text-sm text-[var(--color-brand-cream)]/80 hover:text-[var(--color-brand-yellow)] transition-colors">All Itineraries</Link>
               </div>
               
               <div className="flex flex-col gap-6">
                 <h4 className="text-[var(--color-brand-cream)]/40 uppercase tracking-[0.2em] text-xs font-bold mb-2 md:mb-6">Celebrations</h4>
                 <Link href="/weddings/international" className="text-sm text-[var(--color-brand-cream)]/80 hover:text-[var(--color-brand-yellow)] transition-colors">Global Venues</Link>
                 <Link href="/weddings/domestic" className="text-sm text-[var(--color-brand-cream)]/80 hover:text-[var(--color-brand-yellow)] transition-colors">India Venues</Link>
-                <Link href="/weddings" className="text-sm text-[var(--color-brand-cream)]/80 hover:text-[var(--color-brand-yellow)] transition-colors">Plan Wedding</Link>
               </div>
 
               <div className="flex flex-col gap-6 col-span-2 md:col-span-1">
