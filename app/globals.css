@@ -1,9 +1,15 @@
+@font-face {
+  font-family: 'Snell Roundhand';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/Snell Roundhand Regular.ttf') format("truetype");
+}
+
 @import "tailwindcss";
 
-@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&display=swap');
-
 .font-fancy {
-  font-family: 'Lavishly Yours', cursive;
+  font-family: 'Snell Roundhand', cursive;
 }
 
 @theme inline {
