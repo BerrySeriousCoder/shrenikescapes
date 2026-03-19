@@ -1,26 +1,58 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&display=swap');
+
+.font-fancy {
+  font-family: 'Lavishly Yours', cursive;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-brand-blue: #2687F7;
+  --color-brand-green: #215D2D;
+  --color-brand-yellow: #F3C10A;
+  --color-brand-cream: #F7F0DE;
+
+  --color-background: var(--color-brand-cream);
+  --color-foreground: var(--color-brand-green);
+  --font-sans: var(--font-jakarta-sans);
+}
+
+:root {
+  --background: #F7F0DE;
+  --foreground: #215D2D;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    /* For a sleek dark mode we can use a very dark green or slate, 
+       but keeping it aligned with brand green for now as the dark base. */
+    --background: #0d2613;
+    --foreground: #F7F0DE;
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  background: var(--background);
+  background-color: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-jakarta-sans), ui-sans-serif, system-ui, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-brand-cream);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-brand-green);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-brand-blue);
 }

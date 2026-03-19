@@ -1,0 +1,804 @@
+{
+  "azerbaijan": [
+    {
+      "day": 1,
+      "title": "Arrival in Baku",
+      "activities": [
+        "Arrive in Baku, the capital city of Azerbaijan.",
+        "Check-in at your hotel and rest after your journey.",
+        "Explore the local area and try some traditional Azerbaijani cuisine."
+      ],
+      "imagePath": "/images/itineraries/tour/Azerbaijan/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Baku City Tour",
+      "activities": [
+        "Visit the UNESCO-listed Old City (Icherisheher) with its historic buildings and narrow streets.",
+        "Explore the Palace of the Shirvanshahs, Maiden Tower, and Juma Mosque.",
+        "Visit the modern Flame Towers and Highland Park for panoramic views of the city."
+      ],
+      "imagePath": "/images/itineraries/tour/Azerbaijan/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Excursion to Gobustan & Mud Volcanoes",
+      "activities": [
+        "Take a day trip to Gobustan National Park, known for its ancient rock carvings and mud volcanoes.",
+        "Learn about Azerbaijan's prehistoric history and see unique geological features."
+      ],
+      "imagePath": "/images/itineraries/tour/Azerbaijan/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Gabala",
+      "activities": [
+        "Travel to Gabala, a beautiful region known for its lush landscapes and outdoor activities.",
+        "Visit Nohur Lake, Tufandag Mountain Resort, and the Gabala Shooting Club."
+      ],
+      "imagePath": "/images/itineraries/tour/Azerbaijan/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Sheki Exploration",
+      "activities": [
+        "Drive to Sheki and visit the Sheki Khan's Palace, known for its stunning stained glass windows.",
+        "Explore the charming Sheki Bazaar and the local craftsmanship."
+      ],
+      "imagePath": "/images/itineraries/tour/Azerbaijan/day-5.jpg"
+    },
+    {
+      "day": 6,
+      "title": "Back to Baku and Free Time",
+      "activities": [
+        "Return to Baku from Sheki.",
+        "Enjoy some leisure time to explore more of Baku or go souvenir shopping."
+      ],
+      "imagePath": "/images/itineraries/tour/Azerbaijan/day-6.jpg"
+    },
+    {
+      "day": 7,
+      "title": "Departure",
+      "activities": [
+        "Check out from your hotel.",
+        "Depending on your flight time, you may have some free time before departing from Baku."
+      ],
+      "imagePath": "/images/itineraries/tour/Azerbaijan/day-7.jpg"
+    }
+  ],
+  "egypt": [
+    {
+      "day": 1,
+      "title": "Arrival in Cairo",
+      "activities": [
+        "Arrive at Cairo International Airport.",
+        "Meet and greet by the tour representative.",
+        "Transfer to the hotel for check-in and rest.",
+        "Optional evening: Nile River Dinner Cruise."
+      ],
+      "imagePath": "/images/itineraries/tour/Egypt/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Cairo - Giza Pyramids and Sphinx",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Visit the Giza Plateau to see the Pyramids of Giza (Great Pyramid of Khufu, Pyramid of Khafre, Pyramid of Menkaure) and the iconic Sphinx.",
+        "Explore the Solar Boat Museum (optional).",
+        "Visit the Egyptian Museum to see ancient artifacts, including the treasures of Tutankhamun.",
+        "Overnight in Cairo."
+      ],
+      "imagePath": "/images/itineraries/tour/Egypt/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Cairo - Saqqara and Memphis",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Visit the Saqqara necropolis to see the Step Pyramid of Djoser and other ancient tombs and structures.",
+        "Explore the ancient city of Memphis, the former capital of Egypt.",
+        "Return to Cairo.",
+        "Optional: Sound and Light Show at the Pyramids."
+      ],
+      "imagePath": "/images/itineraries/tour/Egypt/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Cairo - Luxor",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Check out from the hotel and transfer to Cairo Airport.",
+        "Fly to Luxor.",
+        "Visit the Karnak Temple Complex, one of the most significant religious centers of ancient Egypt.",
+        "Check-in at the Luxor hotel and overnight stay."
+      ],
+      "imagePath": "/images/itineraries/tour/Egypt/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Luxor - West Bank",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Cross the Nile to the West Bank.",
+        "Visit the Valley of the Kings, where many pharaohs were buried, including Tutankhamun's tomb (additional ticket required).",
+        "Explore the Temple of Queen Hatshepsut at Deir el-Bahri and the Colossi of Memnon.",
+        "Return to Luxor and optional evening: Hot Air Balloon Ride over Luxor."
+      ],
+      "imagePath": "/images/itineraries/tour/Egypt/day-5.jpg"
+    },
+    {
+      "day": 6,
+      "title": "Luxor - Edfu - Kom Ombo - Aswan",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Check out from the Luxor hotel.",
+        "Visit the Temple of Horus in Edfu (by horse carriage or caleche).",
+        "Continue to Kom Ombo to see the unique double temple dedicated to Sobek and Horus.",
+        "Arrive in Aswan, check-in at the hotel, and overnight stay."
+      ],
+      "imagePath": "/images/itineraries/tour/Egypt/day-6.jpg"
+    },
+    {
+      "day": 7,
+      "title": "Aswan - High Dam and Philae Temple",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Visit the Aswan High Dam, a modern engineering marvel.",
+        "Explore the beautiful Philae Temple, dedicated to the goddess Isis, located on an island in the Nile.",
+        "Optional: Nubian Village tour and Felucca (traditional sailboat) ride on the Nile.",
+        "Overnight in Aswan."
+      ],
+      "imagePath": "/images/itineraries/tour/Egypt/day-7.jpg"
+    },
+    {
+      "day": 8,
+      "title": "Aswan - Cairo - Departure",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Check out from the Aswan hotel.",
+        "Optional: Abu Simbel Temple tour (requires an early start).",
+        "Transfer to Aswan Airport and fly back to Cairo.",
+        "Connect with your international departure flight or extend your stay in Egypt."
+      ],
+      "imagePath": "/images/itineraries/tour/Egypt/day-8.jpg"
+    }
+  ],
+  "fiji": [
+    {
+      "day": 1,
+      "title": "Arrival in Nadi",
+      "activities": [
+        "Arrive at Nadi International Airport.",
+        "Transfer to your hotel or resort in Nadi.",
+        "Relax and unwind after your journey, enjoy the resort amenities, and take in the beautiful surroundings."
+      ],
+      "imagePath": "/images/itineraries/tour/Fiji/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Nadi - Island Tour",
+      "activities": [
+        "After breakfast, embark on a full-day island tour to explore the highlights of Nadi.",
+        "Visit the Garden of the Sleeping Giant, known for its stunning orchids and lush tropical gardens.",
+        "Stop at the Sabeto Hot Springs and Mud Pool for a rejuvenating mud bath.",
+        "Discover the vibrant local markets and shops to buy souvenirs.",
+        "Return to your hotel for an evening at leisure."
+      ],
+      "imagePath": "/images/itineraries/tour/Fiji/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Nadi - Denarau Island",
+      "activities": [
+        "Check out of your Nadi accommodation and transfer to Denarau Island.",
+        "Check-in at your chosen resort and spend the day enjoying the facilities.",
+        "Take a dip in the pool or head to the beach for some relaxation."
+      ],
+      "imagePath": "/images/itineraries/tour/Fiji/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Denarau Island - Coral Coast",
+      "activities": [
+        "After breakfast, depart for the Coral Coast, a beautiful stretch of coastline known for its stunning beaches and resorts.",
+        "Check-in at your Coral Coast resort and spend the day exploring the area.",
+        "Optional activities include snorkeling, kayaking, or simply relaxing by the beach."
+      ],
+      "imagePath": "/images/itineraries/tour/Fiji/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Coral Coast - Sigatoka River Safari",
+      "activities": [
+        "Join an exciting Sigatoka River Safari tour, which offers a unique adventure through Fijian villages and lush landscapes.",
+        "Experience a traditional kava ceremony and interact with the friendly locals.",
+        "Learn about Fijian culture and customs during the tour.",
+        "Return to the resort for an evening at leisure."
+      ],
+      "imagePath": "/images/itineraries/tour/Fiji/day-5.jpg"
+    },
+    {
+      "day": 6,
+      "title": "Coral Coast - Beqa Island Day Trip",
+      "activities": [
+        "Embark on a day trip to Beqa Island, known for its crystal-clear waters and vibrant marine life.",
+        "Enjoy snorkeling or diving in the Beqa Lagoon, home to diverse coral reefs and colorful fish.",
+        "Indulge in a beachside picnic lunch and relax on the pristine shores.",
+        "Return to the Coral Coast in the evening."
+      ],
+      "imagePath": "/images/itineraries/tour/Fiji/day-6.jpg"
+    },
+    {
+      "day": 7,
+      "title": "Departure from Fiji",
+      "activities": [
+        "Enjoy your last morning in Fiji, taking in the beautiful surroundings one last time.",
+        "Check out of the resort and transfer to Nadi International Airport for your departure flight."
+      ],
+      "imagePath": "/images/itineraries/tour/Fiji/day-7.jpg"
+    }
+  ],
+  "greece": [
+    {
+      "day": 1,
+      "title": "Arrival in Athens",
+      "activities": [
+        "Arrive in Athens, the capital city of Greece.",
+        "Check into your hotel and take some rest after your journey.",
+        "In the evening, explore the vibrant Plaka neighborhood, known for its charming streets, traditional Greek taverns, and souvenir shops.",
+        "Overnight in Athens."
+      ],
+      "imagePath": "/images/itineraries/tour/Greece/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Athens Sightseeing",
+      "activities": [
+        "Visit the iconic Acropolis and its ancient monuments, including the Parthenon, Erechtheion, and the Temple of Athena Nike.",
+        "Explore the Acropolis Museum, which houses a vast collection of artifacts from the Acropolis site.",
+        "Discover the ancient Agora of Athens, the heart of the city's public life in classical times.",
+        "Overnight in Athens."
+      ],
+      "imagePath": "/images/itineraries/tour/Greece/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Day Trip to Delphi",
+      "activities": [
+        "Take a day trip to Delphi, a UNESCO World Heritage site and once considered the center of the world in ancient Greek mythology.",
+        "Visit the Temple of Apollo, the Delphi Archaeological Museum, and enjoy breathtaking views of the surrounding landscape.",
+        "Return to Athens in the evening.",
+        "Overnight in Athens."
+      ],
+      "imagePath": "/images/itineraries/tour/Greece/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Athens to Santorini",
+      "activities": [
+        "Take a ferry or a short flight to Santorini, one of the most famous and picturesque Greek islands.",
+        "Upon arrival, check into your hotel and enjoy the rest of the day at your leisure.",
+        "Experience a stunning sunset in Oia, known for its iconic white-washed buildings and blue-domed churches.",
+        "Overnight in Santorini."
+      ],
+      "imagePath": "/images/itineraries/tour/Greece/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Explore Santorini",
+      "activities": [
+        "Explore the volcanic island of Santorini, visit the black sand beaches, and swim in the Aegean Sea.",
+        "Visit the ancient site of Akrotiri, a Minoan Bronze Age settlement buried under volcanic ash.",
+        "Enjoy a wine tasting at one of the local vineyards, known for producing excellent wine.",
+        "Overnight in Santorini."
+      ],
+      "imagePath": "/images/itineraries/tour/Greece/day-5.jpg"
+    },
+    {
+      "day": 6,
+      "title": "Santorini to Mykonos",
+      "activities": [
+        "Take a ferry or flight to Mykonos, another popular Greek island known for its vibrant nightlife and beautiful beaches.",
+        "Check into your hotel and spend the rest of the day at leisure, exploring the charming town and its narrow streets.",
+        "Overnight in Mykonos."
+      ],
+      "imagePath": "/images/itineraries/tour/Greece/day-6.jpg"
+    },
+    {
+      "day": 7,
+      "title": "Explore Mykonos",
+      "activities": [
+        "Explore the famous beaches of Mykonos, such as Paradise Beach, Super Paradise Beach, and Psarou Beach.",
+        "Visit the iconic windmills and Little Venice, two of the most photographed spots on the island.",
+        "Experience the vibrant nightlife of Mykonos at the various bars and clubs.",
+        "Overnight in Mykonos."
+      ],
+      "imagePath": "/images/itineraries/tour/Greece/day-7.jpg"
+    },
+    {
+      "day": 8,
+      "title": "Mykonos to Crete",
+      "activities": [
+        "Take a ferry or flight to Crete, the largest and most diverse of the Greek islands.",
+        "Check into your hotel and relax after your journey.",
+        "Spend the evening exploring the charming old town of Chania with its Venetian harbor and narrow streets.",
+        "Overnight in Crete."
+      ],
+      "imagePath": "/images/itineraries/tour/Greece/day-8.jpg"
+    },
+    {
+      "day": 9,
+      "title": "Explore Crete",
+      "activities": [
+        "Visit the ancient archaeological site of Knossos, the legendary home of King Minos and the Minotaur.",
+        "Explore the Palace of Phaistos and the archaeological museum in Heraklion.",
+        "Enjoy some leisure time at one of Crete's beautiful beaches.",
+        "Overnight in Crete."
+      ],
+      "imagePath": "/images/itineraries/tour/Greece/day-9.jpg"
+    },
+    {
+      "day": 10,
+      "title": "Departure",
+      "activities": [
+        "Depart from Crete to Athens for your return journey home or your next destination."
+      ],
+      "imagePath": "/images/itineraries/tour/Greece/day-10.jpg"
+    }
+  ],
+  "japan": [
+    {
+      "day": 1,
+      "title": "Arrival in Tokyo",
+      "activities": [
+        "Arrive in Tokyo, Japan's bustling capital city.",
+        "Check into your accommodation and rest after your journey.",
+        "Explore the local neighborhood, try some Japanese street food, and get acclimated to the city."
+      ],
+      "imagePath": "/images/itineraries/tour/Japan/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Tokyo Sightseeing",
+      "activities": [
+        "Visit the historic Asakusa district, including the iconic Senso-ji Temple.",
+        "Head to the trendy Shibuya Crossing and Harajuku area for shopping and people-watching.",
+        "In the evening, enjoy the vibrant nightlife of Shinjuku."
+      ],
+      "imagePath": "/images/itineraries/tour/Japan/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Tokyo Sightseeing",
+      "activities": [
+        "Spend the morning at the Tokyo Imperial Palace and its beautiful gardens.",
+        "Visit the Meiji Shrine for a serene experience amidst nature.",
+        "Explore the high-tech Akihabara district, known for its electronics and anime culture."
+      ],
+      "imagePath": "/images/itineraries/tour/Japan/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Day Trip to Nikko",
+      "activities": [
+        "Take a day trip to Nikko, a UNESCO World Heritage site known for its stunning temples and natural beauty.",
+        "Visit Toshogu Shrine and take a walk through the picturesque Nikko National Park."
+      ],
+      "imagePath": "/images/itineraries/tour/Japan/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Travel to Kyoto",
+      "activities": [
+        "Travel to Kyoto, the cultural heart of Japan, via bullet train (Shinkansen).",
+        "Check into your accommodation and explore the nearby Gion district, known for its traditional atmosphere and geisha sightings."
+      ],
+      "imagePath": "/images/itineraries/tour/Japan/day-5.jpg"
+    },
+    {
+      "day": 6,
+      "title": "Kyoto Sightseeing",
+      "activities": [
+        "Visit Kinkaku-ji (Golden Pavilion) and Ryoan-ji Temple.",
+        "Explore the beautiful Arashiyama Bamboo Grove and the Tenryu-ji Temple.",
+        "In the evening, visit Fushimi Inari Taisha, famous for its thousands of red torii gates."
+      ],
+      "imagePath": "/images/itineraries/tour/Japan/day-6.jpg"
+    },
+    {
+      "day": 7,
+      "title": "Day Trip to Nara",
+      "activities": [
+        "Take a day trip to Nara, the ancient capital of Japan.",
+        "Visit Todai-ji Temple, which houses the impressive Great Buddha (Daibutsu).",
+        "Enjoy the friendly deer in Nara Park."
+      ],
+      "imagePath": "/images/itineraries/tour/Japan/day-7.jpg"
+    },
+    {
+      "day": 8,
+      "title": "Travel to Hiroshima",
+      "activities": [
+        "Travel to Hiroshima by Shinkansen.",
+        "Visit the Hiroshima Peace Memorial Park and Museum to learn about the city's history and resilience."
+      ],
+      "imagePath": "/images/itineraries/tour/Japan/day-8.jpg"
+    },
+    {
+      "day": 9,
+      "title": "Miyajima Island",
+      "activities": [
+        "Take a day trip to Miyajima Island, known for its iconic floating Itsukushima Shrine.",
+        "Enjoy the scenic beauty and hike up Mount Misen for panoramic views."
+      ],
+      "imagePath": "/images/itineraries/tour/Japan/day-9.jpg"
+    },
+    {
+      "day": 10,
+      "title": "Back to Tokyo and Departure",
+      "activities": [
+        "Travel back to Tokyo and spend your last day shopping or exploring any missed spots.",
+        "Depart from Tokyo's airport for your onward journey."
+      ],
+      "imagePath": "/images/itineraries/tour/Japan/day-10.jpg"
+    }
+  ],
+  "norway": [
+    {
+      "day": 1,
+      "title": "Arrival in Oslo",
+      "activities": [
+        "Arrive in Oslo, the capital of Norway.",
+        "Transfer to your hotel and rest after your journey.",
+        "Explore the city on your own or take a leisurely walk around the harbor."
+      ],
+      "imagePath": "/images/itineraries/tour/Norway/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Oslo Sightseeing",
+      "activities": [
+        "Take a guided city tour of Oslo.",
+        "Visit popular attractions like the Viking Ship Museum, the Fram Museum, and the Vigeland Sculpture Park.",
+        "Enjoy an evening in the city center, exploring shops and restaurants."
+      ],
+      "imagePath": "/images/itineraries/tour/Norway/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Oslo to Bergen",
+      "activities": [
+        "Take a scenic train ride from Oslo to Bergen (Flåm Railway or Norway in a Nutshell route).",
+        "Arrive in Bergen, a charming coastal city.",
+        "Check-in at your hotel and enjoy a free evening to explore Bryggen, a UNESCO-listed historic area."
+      ],
+      "imagePath": "/images/itineraries/tour/Norway/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Bergen Sightseeing",
+      "activities": [
+        "Embark on a guided city tour of Bergen.",
+        "Visit the famous Fish Market, Bryggen Hanseatic Wharf, and the Troldhaugen Museum (former home of composer Edvard Grieg).",
+        "Take the Fløibanen funicular to Mount Fløyen for panoramic views of the city."
+      ],
+      "imagePath": "/images/itineraries/tour/Norway/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Fjord Cruise",
+      "activities": [
+        "Enjoy a full-day fjord cruise, such as the Norway in a Nutshell tour or a specific fjord like Nærøyfjord or Sognefjord.",
+        "Experience the stunning natural beauty of Norway's fjords, mountains, and waterfalls."
+      ],
+      "imagePath": "/images/itineraries/tour/Norway/day-5.jpg"
+    },
+    {
+      "day": 6,
+      "title": "Bergen to Tromsø",
+      "activities": [
+        "Fly from Bergen to Tromsø, located in northern Norway.",
+        "Upon arrival, check-in at your hotel and have the rest of the day at leisure.",
+        "Consider exploring the Arctic Cathedral and taking a cable car ride for fantastic views."
+      ],
+      "imagePath": "/images/itineraries/tour/Norway/day-6.jpg"
+    },
+    {
+      "day": 7,
+      "title": "Tromsø Arctic Experience",
+      "activities": [
+        "Take part in a thrilling Arctic adventure, like a dog sledding tour or a reindeer sleigh ride.",
+        "Explore the city and its museums, such as the Polar Museum and the Tromsø Museum."
+      ],
+      "imagePath": "/images/itineraries/tour/Norway/day-7.jpg"
+    },
+    {
+      "day": 8,
+      "title": "Tromsø to Trondheim",
+      "activities": [
+        "Fly from Tromsø to Trondheim, a historic city in central Norway.",
+        "Upon arrival, check-in at your hotel and relax or explore the city's landmarks."
+      ],
+      "imagePath": "/images/itineraries/tour/Norway/day-8.jpg"
+    },
+    {
+      "day": 9,
+      "title": "Trondheim Sightseeing",
+      "activities": [
+        "Join a guided tour of Trondheim.",
+        "Visit Nidaros Cathedral, the Archbishop's Palace, and the Old Town Bridge (Gamle Bybro).",
+        "Explore the vibrant cultural scene and waterfront area."
+      ],
+      "imagePath": "/images/itineraries/tour/Norway/day-9.jpg"
+    },
+    {
+      "day": 10,
+      "title": "Departure",
+      "activities": [
+        "Transfer to Trondheim Airport for your departure."
+      ],
+      "imagePath": "/images/itineraries/tour/Norway/day-10.jpg"
+    }
+  ],
+  "peru": [
+    {
+      "day": 1,
+      "title": "Arrival in Lima",
+      "activities": [
+        "Arrive in Lima, the capital of Peru.",
+        "Transfer to your hotel and check-in.",
+        "Rest and recover from your journey."
+      ],
+      "imagePath": "/images/itineraries/tour/Peru/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Lima City Tour",
+      "activities": [
+        "Explore Lima on a city tour.",
+        "Visit the historic center, including Plaza de Armas, the Government Palace, and the Cathedral.",
+        "Discover the Larco Museum, showcasing pre-Columbian art and artifacts.",
+        "Enjoy Peruvian cuisine at a local restaurant."
+      ],
+      "imagePath": "/images/itineraries/tour/Peru/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Fly to Cusco and Explore",
+      "activities": [
+        "Take a domestic flight to Cusco, the ancient Incan capital.",
+        "Acclimate to the altitude and spend the day exploring the city.",
+        "Visit the Plaza de Armas, the Incan Temple of the Sun (Qorikancha), and the San Pedro Market."
+      ],
+      "imagePath": "/images/itineraries/tour/Peru/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Sacred Valley Tour",
+      "activities": [
+        "Embark on a full-day tour of the Sacred Valley.",
+        "Visit the Pisac Market and the Inca ruins at Pisac.",
+        "Stop for lunch at a traditional Andean restaurant.",
+        "Explore the Ollantaytambo fortress and town."
+      ],
+      "imagePath": "/images/itineraries/tour/Peru/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Machu Picchu",
+      "activities": [
+        "Take an early morning train to Aguas Calientes.",
+        "Explore the ancient Incan citadel of Machu Picchu with a guided tour.",
+        "Spend the day marveling at the impressive architecture and breathtaking views.",
+        "Return to Cusco in the evening."
+      ],
+      "imagePath": "/images/itineraries/tour/Peru/day-5.jpg"
+    },
+    {
+      "day": 6,
+      "title": "Free Day in Cusco",
+      "activities": [
+        "Enjoy a free day to relax or explore more of Cusco at your leisure.",
+        "Consider visiting the Sacsayhuaman ruins or the San Blas neighborhood known for its artisan shops."
+      ],
+      "imagePath": "/images/itineraries/tour/Peru/day-6.jpg"
+    },
+    {
+      "day": 7,
+      "title": "Journey to Puno",
+      "activities": [
+        "Take a scenic bus ride or a comfortable train journey to Puno, located on the shores of Lake Titicaca.",
+        "Enjoy the views of the Andean landscape along the way."
+      ],
+      "imagePath": "/images/itineraries/tour/Peru/day-7.jpg"
+    },
+    {
+      "day": 8,
+      "title": "Lake Titicaca Tour",
+      "activities": [
+        "Explore Lake Titicaca, the highest navigable lake in the world.",
+        "Take a boat tour to the Uros Floating Islands, constructed from reeds by the Uros people.",
+        "Visit Taquile Island to experience the local culture and traditional textiles."
+      ],
+      "imagePath": "/images/itineraries/tour/Peru/day-8.jpg"
+    },
+    {
+      "day": 9,
+      "title": "Return to Lima",
+      "activities": [
+        "Fly back to Lima from Puno.",
+        "Use the afternoon for last-minute shopping or optional activities."
+      ],
+      "imagePath": "/images/itineraries/tour/Peru/day-9.jpg"
+    },
+    {
+      "day": 10,
+      "title": "Departure",
+      "activities": [
+        "Check out from your hotel and transfer to the airport for your departure."
+      ],
+      "imagePath": "/images/itineraries/tour/Peru/day-10.jpg"
+    }
+  ],
+  "phuket": [
+    {
+      "day": 1,
+      "title": "Arrival in Phuket",
+      "activities": [
+        "Arrive at Phuket International Airport",
+        "Transfer to your hotel and check-in",
+        "Rest and relax after your journey",
+        "Explore the local area and enjoy a delicious Thai dinner"
+      ],
+      "imagePath": "/images/itineraries/tour/Phuket/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Phang Nga Bay Tour",
+      "activities": [
+        "Early breakfast at the hotel",
+        "Full-day tour to Phang Nga Bay, famous for its stunning limestone cliffs and emerald waters",
+        "Visit James Bond Island, where 'The Man with the Golden Gun' was filmed",
+        "Explore sea caves and canoe through the mangroves",
+        "Enjoy a fresh seafood lunch on a floating Muslim village",
+        "Return to the hotel in the late afternoon"
+      ],
+      "imagePath": "/images/itineraries/tour/Phuket/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Phi Phi Islands Tour",
+      "activities": [
+        "Breakfast at the hotel",
+        "Full-day tour to Phi Phi Islands, one of Thailand's most famous island groups",
+        "Snorkel in the crystal-clear waters, swim, and relax on the beautiful beaches",
+        "Visit Maya Bay, known for its appearance in the movie 'The Beach'",
+        "Enjoy a delicious beachside lunch",
+        "Return to the hotel in the evening"
+      ],
+      "imagePath": "/images/itineraries/tour/Phuket/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Phuket City Tour and Cultural Experience",
+      "activities": [
+        "Breakfast at the hotel",
+        "Half-day city tour of Phuket",
+        "Visit the Big Buddha, an iconic landmark with panoramic views of the island",
+        "Explore Wat Chalong, one of the most significant Buddhist temples in Phuket",
+        "Stroll through Old Phuket Town, known for its Sino-Portuguese architecture and charming streets",
+        "Experience the local culture through traditional dance performances and Thai cuisine",
+        "Optional: Visit a night market for shopping and trying local street food"
+      ],
+      "imagePath": "/images/itineraries/tour/Phuket/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Relaxation and Departure",
+      "activities": [
+        "Breakfast at the hotel",
+        "Spend the morning relaxing on the beach or enjoying the hotel facilities",
+        "Check-out from the hotel",
+        "Transfer to Phuket International Airport for your departure"
+      ],
+      "imagePath": "/images/itineraries/tour/Phuket/day-5.jpg"
+    }
+  ],
+  "turkey": [
+    {
+      "day": 1,
+      "title": "Arrival in Istanbul",
+      "activities": [
+        "Arrive in Istanbul, the vibrant city that straddles Europe and Asia.",
+        "Transfer to your hotel and rest after your journey.",
+        "In the evening, you can take a leisurely walk around the hotel area or visit a nearby local market."
+      ],
+      "imagePath": "/images/itineraries/tour/Turkey/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Istanbul City Tour",
+      "activities": [
+        "Explore the iconic Hagia Sophia, the Blue Mosque, and the Topkapi Palace.",
+        "Visit the Grand Bazaar for a taste of traditional Turkish shopping.",
+        "Take a relaxing Bosphorus cruise to enjoy the beautiful views of Istanbul's skyline."
+      ],
+      "imagePath": "/images/itineraries/tour/Turkey/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Istanbul to Cappadocia",
+      "activities": [
+        "Take a domestic flight to Cappadocia.",
+        "Upon arrival, check into your hotel and rest.",
+        "In the evening, you can opt for an optional Turkish folk dance and dinner show."
+      ],
+      "imagePath": "/images/itineraries/tour/Turkey/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Cappadocia Hot Air Balloon Ride and Sightseeing",
+      "activities": [
+        "Early morning hot air balloon ride over the unique landscapes of Cappadocia (optional but highly recommended).",
+        "Visit the Goreme Open-Air Museum, Pasabag Valley, and Uchisar Castle.",
+        "Explore the fascinating underground city of Kaymakli or Derinkuyu."
+      ],
+      "imagePath": "/images/itineraries/tour/Turkey/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Cappadocia to Pamukkale",
+      "activities": [
+        "Drive or take a domestic flight to Pamukkale.",
+        "Explore the stunning terraces of Pamukkale, known as the 'Cotton Castle.'",
+        "Relax in the thermal waters of Hierapolis Ancient City."
+      ],
+      "imagePath": "/images/itineraries/tour/Turkey/day-5.jpg"
+    },
+    {
+      "day": 6,
+      "title": "Pamukkale to Kusadasi",
+      "activities": [
+        "Drive to Kusadasi, a coastal town near Ephesus.",
+        "En route, visit the ancient city of Aphrodisias, known for its well-preserved ruins."
+      ],
+      "imagePath": "/images/itineraries/tour/Turkey/day-6.jpg"
+    },
+    {
+      "day": 7,
+      "title": "Ephesus Ancient City Tour",
+      "activities": [
+        "Explore the well-preserved ancient city of Ephesus, including the Library of Celsus, the Great Theatre, and the Temple of Artemis.",
+        "Visit the House of the Virgin Mary, a sacred pilgrimage site."
+      ],
+      "imagePath": "/images/itineraries/tour/Turkey/day-7.jpg"
+    },
+    {
+      "day": 8,
+      "title": "Kusadasi to Antalya",
+      "activities": [
+        "Travel to Antalya, a beautiful coastal city on the Mediterranean.",
+        "En route, visit the ancient city of Perge and the Aspendos Theatre."
+      ],
+      "imagePath": "/images/itineraries/tour/Turkey/day-8.jpg"
+    },
+    {
+      "day": 9,
+      "title": "Antalya Sightseeing",
+      "activities": [
+        "Explore Antalya's historic sites, such as Hadrian's Gate and the Old Town (Kaleici).",
+        "Relax on one of Antalya's stunning beaches or take a boat tour along the coast."
+      ],
+      "imagePath": "/images/itineraries/tour/Turkey/day-9.jpg"
+    },
+    {
+      "day": 10,
+      "title": "Departure from Antalya",
+      "activities": [
+        "Depending on your flight schedule, you may have some free time for last-minute shopping or sightseeing.",
+        "Transfer to the airport for your departure."
+      ],
+      "imagePath": "/images/itineraries/tour/Turkey/day-10.jpg"
+    }
+  ]
+}

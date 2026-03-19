@@ -1,0 +1,339 @@
+{
+  "corbett": [
+    {
+      "day": 1,
+      "title": "Arrival and Welcome Dinner",
+      "activities": [
+        "Morning: Arrive at Pantnagar Airport or Kathgodam Railway Station, where transportation arranged by your wedding planner will pick you up. Transfer to your selected resort in Jim Corbett National Park.",
+        "Afternoon: Check-in and freshen up at the resort. Rest and relax, or explore the resort's amenities.",
+        "Evening: Welcome dinner at the resort or an outdoor location. Enjoy a bonfire, live music, or other entertainment. Briefing by the wedding planner regarding the wedding events."
+      ],
+      "imagePath": "/images/itineraries/wedding/Corbett/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Mehndi and Sangeet Ceremony",
+      "activities": [
+        "Morning: Breakfast at the resort. Spa and relaxation time for the bride and groom.",
+        "Afternoon: Mehndi and henna application ceremony for the bride. Sangeet practice and preparations for the evening.",
+        "Evening: Sangeet ceremony with music, dance, and dinner. Guests can enjoy traditional and Bollywood dance performances."
+      ],
+      "imagePath": "/images/itineraries/wedding/Corbett/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Wedding Day",
+      "activities": [
+        "Morning: Breakfast at the resort. Bridal makeup and getting ready. Groom's preparations and dressing.",
+        "Afternoon: Wedding ceremony at a scenic location within the resort or in the Corbett National Park. Lunch served at the venue.",
+        "Evening: Cocktail reception or post-wedding dinner at the resort. Fireworks or other entertainment options. Cake cutting and toasts."
+      ],
+      "imagePath": "/images/itineraries/wedding/Corbett/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Departure",
+      "activities": [
+        "Morning: Farewell brunch at the resort. Guests can enjoy some leisure time or opt for optional activities like a jungle safari or nature walk.",
+        "Afternoon: Check-out from the resort. Transportation provided for guests to Pantnagar Airport or Kathgodam Railway Station for departures."
+      ],
+      "imagePath": "/images/itineraries/wedding/Corbett/day-4.jpg"
+    }
+  ],
+  "goa": [
+    {
+      "day": 1,
+      "title": "Arrival in Goa",
+      "activities": [
+        "Morning: Arrive at Goa's Dabolim Airport (GOI) or the nearest train station. Transfer to your chosen hotel or resort for check-in.",
+        "Afternoon: Relax and freshen up after your journey.",
+        "Evening: Welcome dinner or cocktail party at the hotel's venue or beachfront location. Enjoy some local Goan cuisine and cocktails. Welcome speeches and introductions."
+      ],
+      "imagePath": "/images/itineraries/wedding/Goa/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Ceremony",
+      "activities": [
+        "Morning: Breakfast at the hotel. Relax by the pool or at the beach.",
+        "Afternoon: Hair and makeup appointments for the bride and bridal party. Groom and groomsmen prepare for the ceremony.",
+        "Late Afternoon: Wedding ceremony at a beautiful beachside or garden location. Exchange of vows and rings.",
+        "Evening: Cocktail hour with canapés. Sunset photo session for the newlyweds. Grand wedding reception with a lavish dinner and dancing."
+      ],
+      "imagePath": "/images/itineraries/wedding/Goa/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Beach Party and Leisure",
+      "activities": [
+        "Morning: Late breakfast or brunch at the hotel. Optional water sports or beach activities.",
+        "Afternoon: Explore Goa's attractions or relax by the pool. Spa and wellness treatments for the couple or guests.",
+        "Evening: Beachside barbecue or seafood feast with live music and bonfire. Fun games and activities for guests. Release of sky lanterns or fireworks."
+      ],
+      "imagePath": "/images/itineraries/wedding/Goa/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Farewell and Departure",
+      "activities": [
+        "Morning: Leisurely breakfast at the hotel. Check-out and settle any outstanding bills. Guests may have free time for last-minute shopping or sightseeing.",
+        "Afternoon: Transfer to the airport or train station for departure. Bid farewell to your guests and thank them for attending.",
+        "Evening: Arrive back at your home destination."
+      ],
+      "imagePath": "/images/itineraries/wedding/Goa/day-4.jpg"
+    }
+  ],
+  "jaipur": [
+    {
+      "day": 1,
+      "title": "Arrival and Welcome Dinner",
+      "activities": [
+        "Morning/Afternoon: Arrival at Jaipur International Airport. You and your guests will be greeted by wedding organizers and transported to your chosen accommodations.",
+        "Evening: Welcome dinner at a traditional Rajasthani restaurant or at the wedding venue. Enjoy local cuisine, music, and dance performances."
+      ],
+      "imagePath": "/images/itineraries/wedding/Jaipur/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Mehndi and Sangeet Ceremony",
+      "activities": [
+        "Morning: Breakfast at the hotel/resort.",
+        "Afternoon: Mehndi ceremony for the bride and guests at a beautiful outdoor location.",
+        "Evening: Sangeet ceremony with live music and dance performances. It's a night of celebration and dancing to Bollywood tunes."
+      ],
+      "imagePath": "/images/itineraries/wedding/Jaipur/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Wedding Day",
+      "activities": [
+        "Morning: Breakfast at the hotel/resort.",
+        "Afternoon: Wedding ceremony at a stunning Jaipur palace or a scenic garden venue.",
+        "Evening: Grand reception with dinner, cocktails, and entertainment. It's a night of celebrations and speeches."
+      ],
+      "imagePath": "/images/itineraries/wedding/Jaipur/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Post-Wedding Brunch and Departure",
+      "activities": [
+        "Morning: Farewell brunch to thank your guests for attending and to share memories.",
+        "Afternoon: Check-out from the hotel/resort and departure for the airport."
+      ],
+      "imagePath": "/images/itineraries/wedding/Jaipur/day-4.jpg"
+    }
+  ],
+  "kerala": [
+    {
+      "day": 1,
+      "title": "Arrival in Kerala",
+      "activities": [
+        "Morning: Arrive at the nearest airport (Cochin International Airport or Trivandrum International Airport). Warm welcome by traditional Kerala dancers and a floral garland.",
+        "Afternoon: Transfer to your chosen wedding venue or resort. Check-in and freshen up. Lunch at the resort. Relax and prepare for the evening.",
+        "Evening: Welcome dinner for the guests at the resort with a traditional Kerala feast. Cultural performances showcasing Kerala's dance and music forms (Kathakali, Mohiniyattam, classical music, etc.). Welcome speeches and introductions."
+      ],
+      "imagePath": "/images/itineraries/wedding/Kerala/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Ceremony",
+      "activities": [
+        "Morning: Breakfast at the resort. Bride and groom preparations and traditional bridal makeup for the bride. Guests enjoy the resort amenities or take part in pre-wedding activities like Mehndi.",
+        "Afternoon: Lunch at the resort. Guests can continue with pre-wedding rituals and preparations.",
+        "Evening: Wedding ceremony in a picturesque garden or beach setting. Traditional Kerala wedding rituals with a priest. Reception with cocktails and appetizers. Wedding dinner with a mix of Kerala and international cuisine. Music, dance, and fireworks to celebrate the union."
+      ],
+      "imagePath": "/images/itineraries/wedding/Kerala/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Post-Wedding Celebrations",
+      "activities": [
+        "Morning: Leisurely breakfast at the resort. Guests can explore the surrounding area, enjoy spa treatments, or simply relax.",
+        "Afternoon: Lunch at the resort. Optional activities such as boat rides on the backwaters, sightseeing tours to nearby attractions like Fort Kochi or Alleppey, or a tea plantation visit in Munnar.",
+        "Evening: Reception party with a Western-style buffet and dance floor. Cutting of the wedding cake. Games, toasts, and speeches."
+      ],
+      "imagePath": "/images/itineraries/wedding/Kerala/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Farewell",
+      "activities": [
+        "Morning: Breakfast at the resort. Check-out for departing guests. Distribution of thank-you gifts and farewell souvenirs.",
+        "Afternoon: For guests staying on, you can plan optional activities like a farewell lunch or a relaxed day at the resort."
+      ],
+      "imagePath": "/images/itineraries/wedding/Kerala/day-4.jpg"
+    }
+  ],
+  "manali": [
+    {
+      "day": 1,
+      "title": "Arrival in Manali",
+      "activities": [
+        "Morning: Arrive at Kullu Manali Airport or Bhuntar Airport and transfer to your selected hotel or resort.",
+        "Afternoon: Check-in and freshen up. Enjoy lunch at the hotel.",
+        "Evening: Explore the local market in Manali for some shopping or relax at the hotel.",
+        "Night: Welcome dinner at the hotel or a local restaurant with traditional Himachali cuisine."
+      ],
+      "imagePath": "/images/itineraries/wedding/Manali/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Ceremony",
+      "activities": [
+        "Morning: Have a leisurely breakfast at the hotel.",
+        "Late Morning: Prepare for the wedding ceremony. Bride and groom may have their preparations in separate rooms.",
+        "Afternoon: The wedding ceremony takes place at a picturesque location, such as a riverside or garden, with traditional rituals.",
+        "Evening: Post-wedding ceremonies and celebrations, followed by a grand wedding dinner and dance."
+      ],
+      "imagePath": "/images/itineraries/wedding/Manali/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Manali Sightseeing",
+      "activities": [
+        "Morning: Breakfast at the hotel.",
+        "Late Morning: Visit local attractions in Manali: Hadimba Devi Temple: A beautiful wooden temple amidst lush deodar forests. Museum of Himachal Culture & Folk Art: Explore Himachali culture and art.",
+        "Afternoon: Lunch at a local restaurant.",
+        "Late Afternoon: Explore Manu Temple and stroll through Mall Road for shopping and souvenirs.",
+        "Evening: Return to the hotel to freshen up.",
+        "Night: Enjoy a casual get-together or cocktail party with friends and family."
+      ],
+      "imagePath": "/images/itineraries/wedding/Manali/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Departure",
+      "activities": [
+        "Morning: Check-out from the hotel.",
+        "Afternoon: If time permits, you can visit Solang Valley for adventure activities like paragliding, ziplining, or simply enjoy the scenic beauty.",
+        "Late Afternoon: Lunch at a local restaurant.",
+        "Evening: Depart for the airport for your onward journey or stay an extra night in Manali if desired."
+      ],
+      "imagePath": "/images/itineraries/wedding/Manali/day-4.jpg"
+    }
+  ],
+  "rishikesh": [
+    {
+      "day": 1,
+      "title": "Arrival in Rishikesh",
+      "activities": [
+        "Morning: Arrive at Jolly Grant Airport in Dehradun or the nearest railway station. Transfer to your chosen accommodation in Rishikesh. Check-in, freshen up, and relax.",
+        "Afternoon: Welcome lunch or tea at the hotel or wedding venue.",
+        "Evening: Sangeet ceremony or a welcome dinner at the wedding venue or a picturesque riverside location. Traditional Indian music and dance performances."
+      ],
+      "imagePath": "/images/itineraries/wedding/Rishikesh/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Day",
+      "activities": [
+        "Morning: Breakfast at the hotel. Mehendi ceremony for the bride and her close family and friends.",
+        "Afternoon: Lunch at the hotel or venue. Groom's procession or 'Baraat' along the scenic streets of Rishikesh, accompanied by traditional music and dancing.",
+        "Evening: Wedding ceremony at a beautifully decorated riverside or temple venue. Vows and rituals by the Ganges River.",
+        "Night: Grand wedding reception with a sumptuous dinner. Live music or DJ to keep the guests entertained."
+      ],
+      "imagePath": "/images/itineraries/wedding/Rishikesh/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Post-Wedding Celebrations",
+      "activities": [
+        "Morning: Late breakfast or brunch at the hotel. Relaxation and leisure time for guests.",
+        "Afternoon: Adventure activities or group outings (e.g., white-water rafting, trekking, or yoga sessions by the river) for the guests who want to explore the natural beauty of Rishikesh.",
+        "Evening: Cocktail party or a bonfire night by the riverside. Exchange stories and enjoy the cool breeze of Rishikesh."
+      ],
+      "imagePath": "/images/itineraries/wedding/Rishikesh/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Farewell and Departure",
+      "activities": [
+        "Morning: Farewell breakfast at the hotel or a scenic breakfast setup. Thank-you ceremony for guests, acknowledging their presence and support.",
+        "Afternoon: Check-out from the hotel and departure for the airport or railway station."
+      ],
+      "imagePath": "/images/itineraries/wedding/Rishikesh/day-4.jpg"
+    }
+  ],
+  "triyuginarayan": [
+    {
+      "day": 1,
+      "title": "Arrival and Welcome Dinner",
+      "activities": [
+        "Morning: Arrive at Dehradun's Jolly Grant Airport or Haridwar Railway Station. Greeted by wedding organizers and transported to your chosen accommodation in the nearby town of Guptkashi or Kedarnath.",
+        "Afternoon: Check-in and freshen up. Welcome lunch at the hotel or a local restaurant.",
+        "Evening: Welcome dinner at the hotel or a special outdoor venue. Briefing with the wedding planner to discuss the wedding schedule. Rest and relax to prepare for the big day."
+      ],
+      "imagePath": "/images/itineraries/wedding/Triyuginarayan/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Day",
+      "activities": [
+        "Morning: Early morning tea and snacks. Get ready for the wedding ceremony. Depart for Triyuginarayan Temple, which is about 5-10 km from your accommodation. The wedding ceremony at the ancient Triyuginarayan Temple. The priest will perform the sacred rituals. Traditional Indian wedding lunch (or brunch) for the guests.",
+        "Afternoon: Return to the accommodation. Relax and freshen up.",
+        "Evening: Reception and dinner party at a scenic location. Music, dance, and celebrations continue late into the night."
+      ],
+      "imagePath": "/images/itineraries/wedding/Triyuginarayan/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Post-Wedding Celebrations",
+      "activities": [
+        "Morning: Leisurely breakfast at the hotel. Option for couples' photoshoot in and around the beautiful Himalayan landscape. Guests can explore the local area or opt for a trekking or sightseeing tour.",
+        "Afternoon: Lunch at the hotel or packed lunches for guests on tours. Traditional Mehendi and Haldi ceremonies for the bride.",
+        "Evening: Sangeet night with performances by friends and family. Dinner with live music and dancing."
+      ],
+      "imagePath": "/images/itineraries/wedding/Triyuginarayan/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Departure",
+      "activities": [
+        "Morning: Farewell breakfast at the hotel. Check-out and departure for Dehradun or Haridwar.",
+        "Afternoon: Drop-off at the airport or railway station for onward journeys."
+      ],
+      "imagePath": "/images/itineraries/wedding/Triyuginarayan/day-4.jpg"
+    }
+  ],
+  "udaipur": [
+    {
+      "day": 1,
+      "title": "Arrival in Udaipur",
+      "activities": [
+        "Morning: Arrive at Maharana Pratap Airport or Udaipur Railway Station. Meet and greet by the wedding organizers and transfer to your chosen hotel or resort.",
+        "Afternoon: Check-in and freshen up at the hotel. Enjoy a relaxing afternoon by the hotel pool or explore the nearby surroundings.",
+        "Evening: Welcome dinner at the hotel or a nearby restaurant, where you can meet and greet with other wedding guests."
+      ],
+      "imagePath": "/images/itineraries/wedding/Udaipur/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Ceremony",
+      "activities": [
+        "Morning: Breakfast at the hotel. Get ready for the big day! Wedding preparations, including hair, makeup, and traditional attire.",
+        "Afternoon: Proceed to the wedding venue. Exchange vows and celebrate the union of the bride and groom.",
+        "Evening: Cocktail hour and reception dinner with live music and dance performances. Capture memorable moments with photography and videography."
+      ],
+      "imagePath": "/images/itineraries/wedding/Udaipur/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Explore Udaipur",
+      "activities": [
+        "Morning: Breakfast at the hotel. Visit the famous City Palace, a stunning blend of Rajasthani and Mughal architecture.",
+        "Afternoon: Explore Jagdish Temple, an important Hindu temple in Udaipur. Enjoy a boat ride on Lake Pichola, offering breathtaking views of the City Palace and Jag Mandir.",
+        "Evening: Attend a cultural performance showcasing traditional Rajasthani dance and music. Dinner at a rooftop restaurant with a panoramic view of the city."
+      ],
+      "imagePath": "/images/itineraries/wedding/Udaipur/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Departure",
+      "activities": [
+        "Morning: Leisurely breakfast at the hotel. Free time for shopping, last-minute sightseeing, or relaxation.",
+        "Afternoon: Check-out from the hotel and complete any pending formalities. Transfer to the airport or railway station for your onward journey."
+      ],
+      "imagePath": "/images/itineraries/wedding/Udaipur/day-4.jpg"
+    }
+  ]
+}

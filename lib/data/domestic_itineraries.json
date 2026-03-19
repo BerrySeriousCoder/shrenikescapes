@@ -1,0 +1,284 @@
+{
+  "jaipur": [
+    {
+      "day": 1,
+      "title": "Historical Jaipur",
+      "activities": [
+        "Amber Fort: Start your day by visiting the magnificent Amber Fort, located on a hilltop about 11 kilometers from the city center.",
+        "Jaigarh Fort: After exploring the Amber Fort, head to Jaigarh Fort, which is nearby. This fort offers stunning panoramic views.",
+        "Jal Mahal: On your way back to the city, make a quick stop at Jal Mahal, the Water Palace.",
+        "City Palace: Visit the City Palace, the residence of the Maharaja of Jaipur. The palace complex showcases a beautiful blend of Rajasthani and Mughal architecture."
+      ],
+      "imagePath": "/images/itineraries/tour/Jaipur/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Cultural Jaipur",
+      "activities": [
+        "Hawa Mahal: Start your day at the Hawa Mahal, also known as the Palace of Winds.",
+        "Albert Hall Museum: Visit the Albert Hall Museum, one of the oldest museums in Rajasthan.",
+        "Birla Mandir: Head to the Birla Mandir, a beautiful white-marble temple dedicated to Lord Vishnu and Goddess Lakshmi.",
+        "Chokhi Dhani: Experience the rich Rajasthani culture and traditions at Chokhi Dhani, an ethnic village resort."
+      ],
+      "imagePath": "/images/itineraries/tour/Jaipur/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Shopping and Farewell",
+      "activities": [
+        "Jaipur Bazaars: Explore the vibrant bazaars of Jaipur for some shopping (Johari Bazaar, Bapu Bazaar, Nehru Bazaar).",
+        "Nahargarh Fort: In the afternoon, visit Nahargarh Fort, which offers panoramic views of the city.",
+        "Sunset at Panna Meena Ka Kund: Witness a beautiful sunset at Panna Meena Ka Kund, an ancient stepwell.",
+        "Light and Sound Show at Amer Fort: End your trip with a mesmerizing light and sound show at Amer Fort."
+      ],
+      "imagePath": "/images/itineraries/tour/Jaipur/day-3.jpg"
+    }
+  ],
+  "kerala": [
+    {
+      "day": 1,
+      "title": "Arrival in Kochi",
+      "activities": [
+        "Arrive at Kochi International Airport.",
+        "Meet and greet by our representative, who will assist with the transfer to your hotel.",
+        "Relax and unwind after the journey.",
+        "Optional: Explore the local markets and nearby attractions."
+      ],
+      "imagePath": "/images/itineraries/tour/Kerala/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Kochi Sightseeing",
+      "activities": [
+        "Visit the Mattancherry Palace, also known as the Dutch Palace.",
+        "Explore the historic Jewish Synagogue in the Jew Town.",
+        "Walk through the charming streets of Fort Kochi, lined with colonial-era buildings.",
+        "Witness the iconic Chinese Fishing Nets in action.",
+        "Enjoy a Kathakali dance performance in the evening (optional)."
+      ],
+      "imagePath": "/images/itineraries/tour/Kerala/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Munnar",
+      "activities": [
+        "Proceed to Munnar, a picturesque hill station known for its tea plantations and scenic beauty.",
+        "En route, visit the Cheeyappara and Valara waterfalls.",
+        "Check-in at the hotel and relax for the day.",
+        "Enjoy the cool weather and serene surroundings of Munnar."
+      ],
+      "imagePath": "/images/itineraries/tour/Kerala/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Munnar Sightseeing",
+      "activities": [
+        "Explore the breathtaking beauty of Munnar.",
+        "Visit the Tata Tea Museum to learn about the history of tea cultivation in the region.",
+        "Enjoy a visit to the Echo Point, where your voice echoes back to you.",
+        "Visit the Mattupetty Dam and the Kundala Lake.",
+        "Optional: Take a scenic ride through the tea plantations on a shikara boat."
+      ],
+      "imagePath": "/images/itineraries/tour/Kerala/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Thekkady (Periyar)",
+      "activities": [
+        "Proceed to Thekkady, known for the Periyar Wildlife Sanctuary.",
+        "Check-in at the hotel and relax for a while.",
+        "In the afternoon, go for a thrilling boating experience on Periyar Lake, where you might spot various wildlife species."
+      ],
+      "imagePath": "/images/itineraries/tour/Kerala/day-5.jpg"
+    },
+    {
+      "day": 6,
+      "title": "Alleppey Backwaters",
+      "activities": [
+        "Drive to Alleppey, also known as Alappuzha, famous for its backwaters and houseboat cruises.",
+        "Embark on an enchanting overnight houseboat cruise through the backwaters.",
+        "Enjoy the serene surroundings, lush green landscapes, and delicious Kerala cuisine prepared on the houseboat."
+      ],
+      "imagePath": "/images/itineraries/tour/Kerala/day-6.jpg"
+    },
+    {
+      "day": 7,
+      "title": "Departure",
+      "activities": [
+        "Disembark from the houseboat after breakfast.",
+        "Transfer to Kochi International Airport for your onward journey with beautiful memories of your Kerala trip."
+      ],
+      "imagePath": "/images/itineraries/tour/Kerala/day-7.jpg"
+    }
+  ],
+  "ladakh": [
+    {
+      "day": 1,
+      "title": "Arrival in Leh",
+      "activities": [
+        "Arrive at Kushok Bakula Rimpochee Airport in Leh, the capital of Ladakh.",
+        "Transfer to your hotel and take some rest to acclimatize to the high altitude.",
+        "Explore the local market and Leh Palace in the evening.",
+        "Overnight stay in Leh."
+      ],
+      "imagePath": "/images/itineraries/tour/Ladakh/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Leh Local Sightseeing",
+      "activities": [
+        "Visit Shanti Stupa for stunning panoramic views of Leh and surrounding landscapes.",
+        "Explore the ancient Shey Palace and Hemis Monastery, two important landmarks in the region.",
+        "Visit Thiksey Monastery, known for its impressive architecture and spiritual significance.",
+        "Return to Leh and rest for the night."
+      ],
+      "imagePath": "/images/itineraries/tour/Ladakh/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Leh to Nubra Valley via Khardung La",
+      "activities": [
+        "Embark on a scenic drive to Nubra Valley.",
+        "Cross the famous Khardung La, one of the world's highest motorable passes.",
+        "Reach Nubra Valley, known for its unique landscape and sand dunes.",
+        "Visit Diskit Monastery and enjoy a camel safari in the sand dunes of Hunder.",
+        "Overnight stay in a hotel/camp in Nubra Valley."
+      ],
+      "imagePath": "/images/itineraries/tour/Ladakh/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Nubra Valley to Pangong Lake",
+      "activities": [
+        "Drive towards Pangong Lake, one of the most breathtaking lakes in Ladakh.",
+        "The route takes you through picturesque villages and mesmerizing landscapes.",
+        "Arrive at Pangong Lake and spend some time admiring the changing colors of the lake.",
+        "Overnight stay in a camp near Pangong Lake."
+      ],
+      "imagePath": "/images/itineraries/tour/Ladakh/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Pangong Lake to Leh",
+      "activities": [
+        "Wake up early to witness the beautiful sunrise over Pangong Lake.",
+        "After breakfast, drive back to Leh.",
+        "On the way, you can visit the famous Hemis Monastery and the school featured in the movie '3 Idiots'.",
+        "Reach Leh and spend the rest of the day at leisure.",
+        "Overnight stay in Leh."
+      ],
+      "imagePath": "/images/itineraries/tour/Ladakh/day-5.jpg"
+    },
+    {
+      "day": 6,
+      "title": "Departure",
+      "activities": [
+        "After breakfast, check out from the hotel and transfer to the airport for your onward journey."
+      ],
+      "imagePath": "/images/itineraries/tour/Ladakh/day-6.jpg"
+    }
+  ],
+  "meghalaya": [
+    {
+      "day": 1,
+      "title": "Arrival in Guwahati - Transfer to Shillong",
+      "activities": [
+        "Arrive at Guwahati Airport/Railway Station.",
+        "Meet and greet by the tour representative.",
+        "Transfer to Shillong, the capital city of Meghalaya (approximately 3 hours drive).",
+        "Check-in at the hotel, relax and freshen up.",
+        "Explore the local markets and enjoy the pleasant weather of Shillong.",
+        "Overnight stay in Shillong."
+      ],
+      "imagePath": "/images/itineraries/tour/Meghalaya/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Shillong Sightseeing",
+      "activities": [
+        "Proceed for a full-day sightseeing tour of Shillong.",
+        "Visit Shillong Peak for a panoramic view of the city.",
+        "Explore the Don Bosco Museum, showcasing the culture and heritage of the region.",
+        "Visit Ward's Lake for a peaceful walk and boating (optional).",
+        "Explore the beautiful Elephant Falls.",
+        "Return to the hotel and overnight stay in Shillong."
+      ],
+      "imagePath": "/images/itineraries/tour/Meghalaya/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Cherrapunjee Excursion",
+      "activities": [
+        "Take a day trip to Cherrapunjee, one of the wettest places on Earth.",
+        "Visit the Mawsmai Caves, known for their unique limestone formations.",
+        "Explore the Seven Sisters Falls, Nohkalikai Falls (the tallest plunge waterfall in India), and Dainthlen Falls.",
+        "Visit the Living Root Bridge of Mawsynram or Cherrapunjee.",
+        "Return to Shillong in the evening and overnight stay."
+      ],
+      "imagePath": "/images/itineraries/tour/Meghalaya/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Mawlynnong Village and Dawki Excursion",
+      "activities": [
+        "Proceed to Mawlynnong Village, renowned as 'Asia's Cleanest Village'.",
+        "Explore the picturesque village and marvel at the living root bridge.",
+        "Visit the nearby balancing rock and enjoy breathtaking views from the Skywalk viewpoint.",
+        "Later, head to Dawki, known for its crystal-clear Umngot River.",
+        "Enjoy a boat ride on the Umngot River (optional) and witness the surreal beauty of the riverbed.",
+        "Return to Shillong and overnight stay."
+      ],
+      "imagePath": "/images/itineraries/tour/Meghalaya/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Departure",
+      "activities": [
+        "After breakfast, check out from the hotel.",
+        "Transfer back to Guwahati Airport/Railway Station.",
+        "Bid farewell to Meghalaya with beautiful memories of the trip."
+      ],
+      "imagePath": "/images/itineraries/tour/Meghalaya/day-5.jpg"
+    }
+  ],
+  "rann-of-kutch": [
+    {
+      "day": 1,
+      "title": "Arrival in Bhuj",
+      "activities": [
+        "Arrive at Bhuj airport or railway station.",
+        "Transfer to your pre-booked hotel/resort in Bhuj and check-in.",
+        "Rest and freshen up.",
+        "In the evening, visit the Bhujodi village, known for its traditional handicrafts like weaving and embroidery.",
+        "Explore the local market for shopping traditional textiles and handicrafts.",
+        "Overnight stay in Bhuj."
+      ],
+      "imagePath": "/images/itineraries/tour/Rann/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Rann of Kutch Excursion",
+      "activities": [
+        "After breakfast, depart for a full-day excursion to the Great Rann of Kutch, the world's largest salt desert.",
+        "Visit the White Rann, and if traveling during the Rann Utsav, enjoy cultural performances and activities.",
+        "Take a camel ride on the vast expanse of the salt desert and witness the breathtaking sunset.",
+        "Return to Bhuj in the evening.",
+        "Overnight stay in Bhuj."
+      ],
+      "imagePath": "/images/itineraries/tour/Rann/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Bhuj Sightseeing and Departure",
+      "activities": [
+        "After breakfast, check out from the hotel and proceed for local sightseeing in Bhuj.",
+        "Visit the Aina Mahal, a stunning palace with intricate mirror work and beautiful architecture.",
+        "Explore the Prag Mahal, a grand palace showcasing a blend of Italian and Indian architectural styles.",
+        "Visit the Kutch Museum, which houses a diverse collection of artifacts, textiles, and crafts from the region.",
+        "If time permits, visit the Bhuj Chattardi, a collection of cenotaphs dedicated to the royal family of Kutch.",
+        "In the evening, transfer to the Bhuj airport/railway station for departure."
+      ],
+      "imagePath": "/images/itineraries/tour/Rann/day-3.jpg"
+    }
+  ]
+}

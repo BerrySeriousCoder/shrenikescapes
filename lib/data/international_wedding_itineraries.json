@@ -1,0 +1,426 @@
+{
+  "bali": [
+    {
+      "day": 1,
+      "title": "Arrival and Welcome Dinner",
+      "activities": [
+        "Arrive at Ngurah Rai International Airport in Bali.",
+        "Meet with your wedding planner and venue coordinator to go over final details.",
+        "Check-in at your chosen accommodation, whether it's a luxury resort or a private villa.",
+        "Relax and freshen up after your journey.",
+        "Welcome dinner at a beachfront restaurant with traditional Balinese cuisine.",
+        "Guests can mingle and get to know each other in a relaxed atmosphere."
+      ],
+      "imagePath": "/images/itineraries/wedding/Bali/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Day",
+      "activities": [
+        "Breakfast at the hotel or villa.",
+        "Bridal party and groomsmen preparations. Hair and makeup for the bride and bridesmaids.",
+        "Wedding ceremony at a beautiful beachfront venue or a lush garden setting.",
+        "Cocktail hour with canapés and drinks, followed by a professional photography session.",
+        "Reception dinner with live music or a DJ.",
+        "First dance, speeches, and cutting of the wedding cake. Dancing and celebration with family and friends."
+      ],
+      "imagePath": "/images/itineraries/wedding/Bali/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Relaxation and Exploration",
+      "activities": [
+        "Late breakfast or brunch at the hotel or villa.",
+        "Relax by the pool or on the beach. Spa treatments or massages for the couple and guests.",
+        "Optional group excursion for guests, such as a visit to a nearby temple, a cultural show, or a water sports activity.",
+        "Sunset cocktails and dinner at a cliffside restaurant with stunning views.",
+        "Private fire dance performance or other cultural entertainment."
+      ],
+      "imagePath": "/images/itineraries/wedding/Bali/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Farewell Brunch and Departure",
+      "activities": [
+        "Farewell brunch at the accommodation or a nearby restaurant.",
+        "Thank your guests for joining you on this special journey.",
+        "Guests can relax by the pool, enjoy the beach, or do some last-minute souvenir shopping.",
+        "Check-out from the hotel or villa.",
+        "Depart for Ngurah Rai International Airport for your onward journey or honeymoon."
+      ],
+      "imagePath": "/images/itineraries/wedding/Bali/day-4.jpg"
+    }
+  ],
+  "dubai": [
+    {
+      "day": 1,
+      "title": "Arrival in Dubai",
+      "activities": [
+        "Arrive at Dubai International Airport and transfer to your chosen hotel or resort.",
+        "Check-in and freshen up.",
+        "Welcome lunch or afternoon tea at the hotel. Relax and unwind by the pool or beach.",
+        "Spa treatments for the bridal party (optional).",
+        "Welcome dinner at a fine-dining restaurant or a private reception at the hotel.",
+        "Toast to the beginning of your wedding festivities."
+      ],
+      "imagePath": "/images/itineraries/wedding/Dubai/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Pre-Wedding Activities",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Bride and groom preparations for the big day. Bridal party's hair and makeup appointments.",
+        "Wedding ceremony rehearsal.",
+        "Explore Dubai for last-minute shopping or sightseeing.",
+        "Rehearsal dinner or a casual gathering with friends and family. Enjoy a laid-back evening."
+      ],
+      "imagePath": "/images/itineraries/wedding/Dubai/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Wedding Day",
+      "activities": [
+        "Start the day with a leisurely breakfast.",
+        "Hair and makeup sessions for the bride and bridesmaids. Groom and groomsmen get ready.",
+        "Exchange vows at your chosen wedding venue. Popular options include beachfront settings, desert oases, or luxury resorts.",
+        "Post-ceremony cocktail hour with canapés. Group photos and couple's photoshoot.",
+        "Grand wedding reception with dinner and entertainment. Cutting the cake, speeches, and dancing.",
+        "Fireworks or a light show to cap off the evening."
+      ],
+      "imagePath": "/images/itineraries/wedding/Dubai/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Post-Wedding Celebrations and Farewell",
+      "activities": [
+        "Late breakfast or brunch with your guests. Share memories and stories from the wedding day.",
+        "Optional activities for guests, such as a desert safari, city tour, or spa day.",
+        "Relax by the hotel's pool or beach.",
+        "Farewell dinner or cocktail reception. Thank your guests for joining you on this special journey."
+      ],
+      "imagePath": "/images/itineraries/wedding/Dubai/day-4.jpg"
+    },
+    {
+      "day": 5,
+      "title": "Departure",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Check-out and arrange airport transfers.",
+        "Bid farewell to Dubai and your guests."
+      ],
+      "imagePath": "/images/itineraries/wedding/Dubai/day-5.jpg"
+    }
+  ],
+  "georgia": [
+    {
+      "day": 1,
+      "title": "Arrival and Welcome Dinner",
+      "activities": [
+        "Morning:",
+        "Arrive at your chosen airport in Georgia (e.g., Atlanta Hartsfield-Jackson International Airport).",
+        "Transfer to your accommodation, which could be a charming inn, a luxury hotel, or a rental property, depending on your preferences and budget.",
+        "Afternoon:",
+        "Check-in and freshen up.",
+        "Explore the local area or relax by the hotel pool.",
+        "Evening:",
+        "Welcome dinner for your guests at a local restaurant or a private event space.",
+        "Toast to the beginning of your wedding celebrations."
+      ],
+      "imagePath": "/images/itineraries/wedding/Georgia/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Ceremony",
+      "activities": [
+        "Morning:",
+        "Enjoy a leisurely breakfast at your accommodation.",
+        "If you're getting ready at a different location, make arrangements for hair and makeup.",
+        "Afternoon:",
+        "Wedding ceremony at your chosen venue, whether it's a vineyard, historic estate, beach, or any other scenic spot.",
+        "Cocktail hour and group photos following the ceremony.",
+        "Evening:",
+        "Reception and dinner with live music or DJ entertainment.",
+        "Dancing and celebrating with family and friends."
+      ],
+      "imagePath": "/images/itineraries/wedding/Georgia/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Exploring Georgia",
+      "activities": [
+        "Morning:",
+        "Brunch with close family and friends at the accommodation or a local restaurant.",
+        "Afternoon:",
+        "Guided tour or excursion to explore the local attractions, such as visiting nearby wineries, historic sites, or natural parks.",
+        "Evening:",
+        "Rehearsal dinner at a local restaurant or venue.",
+        "Spend quality time with your wedding party and close family members."
+      ],
+      "imagePath": "/images/itineraries/wedding/Georgia/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Farewell Brunch and Departure",
+      "activities": [
+        "Morning:",
+        "Farewell brunch with all your wedding guests.",
+        "Thank everyone for joining you in celebrating your special day.",
+        "Afternoon:",
+        "Check out of your accommodation.",
+        "Depending on your flight schedule, you may have some free time for last-minute shopping or relaxation.",
+        "Evening:",
+        "Depart for the airport for your journey back home or continue your honeymoon in Georgia."
+      ],
+      "imagePath": "/images/itineraries/wedding/Georgia/day-4.jpg"
+    }
+  ],
+  "italy": [
+    {
+      "day": 1,
+      "title": "Arrival in Italy - Welcome Dinner",
+      "activities": [
+        "Arrive at your chosen Italian destination.",
+        "Check into your selected accommodation.",
+        "Get settled in and freshen up.",
+        "Welcome dinner for all guests at a local Italian restaurant.",
+        "Toast to the beginning of your wedding celebration."
+      ],
+      "imagePath": "/images/itineraries/wedding/Italy/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Pre-Wedding Excursion and Rehearsal Dinner",
+      "activities": [
+        "Breakfast at your accommodation. Relax and prepare for the day ahead.",
+        "Guided tour or group excursion to a local attraction (e.g., historical site, winery tour). Alternatively, spend this time with your bridal party.",
+        "Lunch on your own or in small groups.",
+        "Return to your accommodation to prepare for the evening.",
+        "Rehearsal for the wedding ceremony.",
+        "Rehearsal dinner at a charming Italian restaurant or a private venue."
+      ],
+      "imagePath": "/images/itineraries/wedding/Italy/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Wedding Day",
+      "activities": [
+        "Breakfast in your accommodation.",
+        "Begin hair and makeup preparations for the bride and bridal party. Groom and groomsmen prepare.",
+        "Guests have free time to relax or explore the local area.",
+        "Wedding ceremony at your chosen wedding venue.",
+        "Cocktail hour with drinks and appetizers.",
+        "Reception dinner with dancing and celebrations. Cake cutting and toasts."
+      ],
+      "imagePath": "/images/itineraries/wedding/Italy/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Post-Wedding Brunch and Farewell",
+      "activities": [
+        "Farewell brunch for all guests at a scenic location or your accommodation.",
+        "Optional group activities or free time for guests to explore independently.",
+        "Packing and preparations for departure.",
+        "Departure for those not staying longer."
+      ],
+      "imagePath": "/images/itineraries/wedding/Italy/day-4.jpg"
+    }
+  ],
+  "mauritius": [
+    {
+      "day": 1,
+      "title": "Arrival in Mauritius",
+      "activities": [
+        "Arrive at Sir Seewoosagur Ramgoolam International Airport (MRU).",
+        "Meet your wedding planner or coordinator. Transfer to your chosen accommodation (resort, hotel, or villa).",
+        "Check-in and freshen up. Explore the resort or relax on the beach.",
+        "Welcome dinner or cocktail party at the resort.",
+        "Enjoy a beautiful sunset view."
+      ],
+      "imagePath": "/images/itineraries/wedding/Mauritius/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Day",
+      "activities": [
+        "Breakfast at the resort. Spa and beauty treatments for the bride and bridesmaids.",
+        "Groom and groomsmen preparations.",
+        "Wedding ceremony at a scenic beachfront location or garden.",
+        "Reception and celebration immediately following the ceremony.",
+        "Dinner and dancing under the stars."
+      ],
+      "imagePath": "/images/itineraries/wedding/Mauritius/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Post-Wedding Activities",
+      "activities": [
+        "Leisurely breakfast.",
+        "Optional group activities like snorkeling, scuba diving, or boat trips.",
+        "Enjoy some water sports or explore local attractions like Chamarel Seven Colored Earths or the Black River Gorges National Park.",
+        "Romantic beachside dinner for the newlyweds.",
+        "Bonfire or beach party for all guests."
+      ],
+      "imagePath": "/images/itineraries/wedding/Mauritius/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Departure",
+      "activities": [
+        "Final breakfast at the resort.",
+        "Free time for last-minute shopping or relaxation.",
+        "Check out of the resort.",
+        "Transfer to the airport for your departure."
+      ],
+      "imagePath": "/images/itineraries/wedding/Mauritius/day-4.jpg"
+    }
+  ],
+  "phuket": [
+    {
+      "day": 1,
+      "title": "Arrival in Phuket",
+      "activities": [
+        "Arrive at Phuket International Airport.",
+        "Meet and greet by wedding organizers or hotel staff.",
+        "Check-in at your chosen hotel or resort. Spend some relaxing time by the pool or beach.",
+        "Welcome dinner or cocktail party at the hotel or a nearby beachfront venue.",
+        "Enjoy a Thai cultural performance or fire show."
+      ],
+      "imagePath": "/images/itineraries/wedding/Phuket/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Ceremony",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Spa and grooming appointments for the bride and groom.",
+        "Pre-wedding photoshoot at a scenic location in Phuket (e.g., a beach, temple, or lush garden).",
+        "Wedding ceremony at a picturesque venue (beachfront, garden, or resort).",
+        "Reception dinner with a Thai and international menu.",
+        "Dancing and entertainment (live band or DJ)."
+      ],
+      "imagePath": "/images/itineraries/wedding/Phuket/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Relaxation and Excursion",
+      "activities": [
+        "Leisurely breakfast.",
+        "Relax by the pool or indulge in spa treatments.",
+        "Group excursion or optional activities for guests (options may include island hopping, snorkeling, or a visit to Phang Nga Bay).",
+        "Farewell dinner with traditional Thai cuisine.",
+        "Speeches, toasts, and dancing to celebrate the wedding."
+      ],
+      "imagePath": "/images/itineraries/wedding/Phuket/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Departure",
+      "activities": [
+        "Breakfast and check-out from the hotel.",
+        "Transfer to Phuket International Airport.",
+        "Departure for your home country."
+      ],
+      "imagePath": "/images/itineraries/wedding/Phuket/day-4.jpg"
+    }
+  ],
+  "srilanka": [
+    {
+      "day": 1,
+      "title": "Arrival and Welcome Dinner",
+      "activities": [
+        "Arrive at Bandaranaike International Airport in Colombo.",
+        "Transfer to your chosen wedding venue or hotel in Negombo or Colombo.",
+        "Check-in and freshen up. Relax and unwind by the pool or beach.",
+        "Optional spa treatments for the bride and groom to relax before the big day.",
+        "Wedding party preparations and rehearsals.",
+        "Welcome dinner for all guests at the hotel or a nearby restaurant with cultural performances."
+      ],
+      "imagePath": "/images/itineraries/wedding/SriLanka/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Day",
+      "activities": [
+        "Breakfast at the hotel. Hair and makeup sessions for the bridal party. Groom and groomsmen get ready.",
+        "Wedding preparations and final touches.",
+        "Wedding ceremony at a picturesque location, such as a beach, garden, or a historic site.",
+        "Exchange vows in a beautiful outdoor setting. Group photos and couple's photoshoot.",
+        "Cocktail hour with drinks and canapés.",
+        "Sunset reception with a sumptuous dinner, featuring Sri Lankan and international cuisine.",
+        "Dancing and entertainment, including a DJ or live band. Cutting the wedding cake and toasts."
+      ],
+      "imagePath": "/images/itineraries/wedding/SriLanka/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Post-Wedding Celebration",
+      "activities": [
+        "Late breakfast for everyone to recover from the previous night's festivities.",
+        "Relax by the pool, beach, or at the spa.",
+        "Optional group activities or excursions for guests who want to explore Sri Lanka's culture.",
+        "Light lunch for all guests. More relaxation and leisure time.",
+        "Farewell dinner with a traditional Sri Lankan BBQ or seafood feast.",
+        "Share your gratitude with your guests for being part of your special day."
+      ],
+      "imagePath": "/images/itineraries/wedding/SriLanka/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Departure",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Check-out and farewells to your guests.",
+        "Transfer to the airport for your onward journey or honeymoon."
+      ],
+      "imagePath": "/images/itineraries/wedding/SriLanka/day-4.jpg"
+    }
+  ],
+  "vietnam": [
+    {
+      "day": 1,
+      "title": "Arrival in Vietnam",
+      "activities": [
+        "Arrive at Tan Son Nhat International Airport in Ho Chi Minh City (Saigon).",
+        "Transfer to your chosen hotel or resort in the city.",
+        "Check-in and freshen up at the hotel.",
+        "Spend some leisure time exploring the vibrant streets of Saigon.",
+        "Welcome dinner at a local Vietnamese restaurant, where you can enjoy traditional cuisine."
+      ],
+      "imagePath": "/images/itineraries/wedding/Vietnam/day-1.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Wedding Ceremony",
+      "activities": [
+        "Relax and prepare for your wedding ceremony.",
+        "Wedding ceremony and reception at your chosen wedding venue. Popular options include beachfront resorts in places like Nha Trang or Da Nang, or a picturesque venue in Hoi An.",
+        "Photography session at iconic locations or scenic spots.",
+        "Wedding reception with a banquet and dancing under the stars."
+      ],
+      "imagePath": "/images/itineraries/wedding/Vietnam/day-2.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Explore Vietnam",
+      "activities": [
+        "Breakfast at the hotel.",
+        "Depending on your location, consider exploring the local culture and attractions. In Hoi An, ancient town; in Nha Trang, relax on the beach or snorkel; in Da Nang, visit Marble Mountains.",
+        "Enjoy a spa day or relaxation at the hotel or resort.",
+        "If you're in a coastal location, consider water activities like paddleboarding, jet-skiing, or a boat tour.",
+        "Farewell dinner at a rooftop restaurant or a special event at your resort."
+      ],
+      "imagePath": "/images/itineraries/wedding/Vietnam/day-3.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Departure",
+      "activities": [
+        "Check out of your hotel.",
+        "Depending on your flight schedule, you may have some free time for last-minute shopping or exploration.",
+        "Transfer to the airport for your departure."
+      ],
+      "imagePath": "/images/itineraries/wedding/Vietnam/day-4.jpg"
+    }
+  ]
+}
