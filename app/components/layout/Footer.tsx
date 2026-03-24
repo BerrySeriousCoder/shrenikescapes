@@ -7,6 +7,14 @@ export default function Footer() {
   return (
     <footer className="relative bg-[#0b1d0e] pt-32 overflow-hidden text-[var(--color-brand-cream)] border-t border-[var(--color-brand-green)]/10 flex flex-col justify-between">
       
+      {/* Forest Background Image */}
+      <Image 
+        src="/images/footerbg.jpg" 
+        alt="Footer Forest Background" 
+        fill 
+        className="object-cover opacity-30 pointer-events-none z-0" 
+      />
+
       <div className="max-w-[1600px] mx-auto px-6 md:px-12 relative z-10 w-full flex-grow">
         
         {/* Top Content Layout */}
@@ -74,11 +82,20 @@ export default function Footer() {
       </div>
 
       {/* Massive Faded Bottom Center Text */}
-      <div className="relative w-full flex justify-center items-end opacity-[0.04] pointer-events-none overflow-hidden leading-none pt-4 bg-transparent mt-[-2rem] sm:mt-[-4rem] md:mt-[-6rem] lg:mt-[-8rem]">
+      <div className="relative w-full flex justify-center items-end opacity-[0.04] pointer-events-none overflow-hidden leading-none pt-4 bg-transparent mt-[-2rem] sm:mt-[-4rem] md:mt-[-6rem] lg:mt-[-8rem] z-10">
         <div className="flex items-center whitespace-nowrap text-[var(--color-brand-cream)] transform translate-y-[20%]">
            <span className="text-[12vw] md:text-[11vw] font-bold tracking-tight">Shrenik</span>
            <span className="font-fancy text-[14vw] md:text-[13vw] lowercase ml-[0.2em] transform translate-y-[0.1em] text-[var(--color-brand-yellow)]">escapes</span>
         </div>
+      </div>
+
+      {/* Passport Stamps Row */}
+      <div className="absolute flex justify-between md:justify-around items-end bottom-0 left-0 w-full px-4 md:px-12 pb-2 md:pb-6 pointer-events-none z-20 opacity-40">
+        <Image src="/images/stamp/stampone.png" width={150} height={150} alt="Travel Stamp" className="w-16 md:w-28 lg:w-36 h-auto transform -rotate-12 translate-y-4 md:translate-y-2" />
+        <Image src="/images/stamp/stamptwo.webp" width={150} height={150} alt="Travel Stamp" className="w-20 md:w-32 lg:w-40 h-auto transform rotate-6 -translate-y-2 md:-translate-y-6" />
+        <Image src="/images/stamp/stampthree.webp" width={150} height={150} alt="Travel Stamp" className="hidden sm:block w-16 md:w-28 lg:w-36 h-auto transform -rotate-6 translate-y-4 md:translate-y-8" />
+        <Image src="/images/stamp/stampfour.png" width={150} height={150} alt="Travel Stamp" className="w-24 md:w-36 lg:w-48 h-auto transform flex-shrink-0 rotate-12 translate-y-2 md:translate-y-0" />
+        <Image src="/images/stamp/stampfive.png" width={150} height={150} alt="Travel Stamp" className="hidden md:block w-16 md:w-28 lg:w-36 h-auto transform -rotate-3 -translate-y-2" />
       </div>
 
     </footer>

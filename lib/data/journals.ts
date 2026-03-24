@@ -18,7 +18,7 @@ export const JOURNALS: Journal[] = [
     slug: "alaska-the-last-frontier",
     title: "Alaska Adventures: Exploring the Last Frontier with Fly with Rabbit",
     destination: "Alaska",
-    image: "/images/packages/Norway.jpg", // Placeholder until specific Alaska image is uploaded
+    image: "/images/journals/alaska.jpg",
     date: "April 12, 2026",
     intro: "Welcome, fellow travel enthusiasts, to another thrilling adventure brought to you by Fly with Rabbit! Today, we're taking you on a journey to one of the most captivating destinations on Earth – Alaska, the Last Frontier. From stunning glaciers to abundant wildlife and rugged wilderness, Alaska offers a unique experience that will leave you awe-inspired. In this blog, we'll explore the wonders of Alaska through a series of questions and answers that will help you plan your next adventure to this remarkable destination. So, let's dive right in!",
     sections: [
@@ -68,7 +68,7 @@ export const JOURNALS: Journal[] = [
     slug: "angkor-wat-mysteries",
     title: "Angkor Wat: Unveiling the Mysteries of Cambodia's Ancient Wonder",
     destination: "Angkor Wat",
-    image: "/images/packages/Japan.jpg", // Placeholder
+    image: "/images/journals/angkor-wat.jpg",
     date: "March 28, 2026",
     intro: "Welcome, fellow adventurers, to another exciting journey with Fly with Rabbit! Today, we're taking you on a virtual expedition to one of the most captivating and enigmatic destinations in Southeast Asia: Angkor Wat. As a travel expert turned content writer, I've had the privilege of exploring this archaeological marvel, and I'm thrilled to share my insights with you.",
     sections: [
@@ -114,7 +114,7 @@ export const JOURNALS: Journal[] = [
     slug: "antarctica-frozen-continent",
     title: "Antarctica: A Journey to the Frozen Continent",
     destination: "Antarctica",
-    image: "/images/packages/Norway.jpg", // Placeholder
+    image: "/images/journals/antarctica.jpg",
     date: "February 14, 2026",
     intro: "Welcome, fellow wanderers, to another exciting adventure with Fly with Rabbit! Today, we embark on a journey like no other, to a land of ice and wonder - Antarctica. This frozen paradise at the end of the world beckons with its pristine landscapes, incredible wildlife, and a sense of adventure that is second to none. As your travel expert turned content writer, I'm here to guide you through this icy wonderland with a series of questions that will help you uncover the mysteries of this remote continent.",
     sections: [
@@ -164,7 +164,7 @@ export const JOURNALS: Journal[] = [
     slug: "armenia-caucasus-gem",
     title: "Exploring the Hidden Gem of the Caucasus: Armenia",
     destination: "Armenia",
-    image: "/images/packages/Jaipur.jpg", // Placeholder
+    image: "/images/journals/armenia.jpg",
     date: "January 05, 2026",
     intro: "Welcome, fellow adventurers, to another thrilling journey with Fly with Rabbit! Today, we're going to unravel the mysteries of Armenia, a breathtaking destination nestled in the heart of the Caucasus Mountains. Armenia may be small in size, but it's big on culture, history, and natural beauty. Get ready to embark on a virtual tour through this captivating country, as we answer some key questions to help you plan your next adventure.",
     sections: [
@@ -214,7 +214,7 @@ export const JOURNALS: Journal[] = [
     slug: "azerbaijan-mysteries",
     title: "Exploring the Mysteries of Azerbaijan with Fly with Rabbit",
     destination: "Azerbaijan",
-    image: "/images/packages/Egypt.jpg", // Placeholder
+    image: "/images/journals/azerbaijan.jpg",
     date: "December 18, 2025",
     intro: "Welcome, fellow travelers, to another exciting journey brought to you by Fly with Rabbit! Today, we're embarking on a virtual adventure to the mesmerizing country of Azerbaijan. Nestled between the Caspian Sea and the Caucasus Mountains, Azerbaijan is a land of captivating beauty, rich culture, and ancient history waiting to be discovered. So, fasten your seatbelts, and let's dive into this enchanting destination together.",
     sections: [
@@ -264,7 +264,7 @@ export const JOURNALS: Journal[] = [
     slug: "banff-natural-wonders",
     title: "Exploring the Natural Wonders of Banff: A Journey to Remember",
     destination: "Banff",
-    image: "/images/packages/Ladakh.jpg", // Placeholder
+    image: "/images/journals/banff.jpg",
     date: "November 02, 2025",
     intro: "Welcome, fellow travelers, to another exciting adventure with Fly with Rabbit! Today, we embark on a journey to the enchanting destination of Banff, nestled in the heart of the Canadian Rockies. Known for its breathtaking landscapes, pristine wilderness, and charming alpine town, Banff offers a unique blend of outdoor adventures and serene beauty. As your travel expert turned content writer, I'm thrilled to guide you through this remarkable destination, answering your burning questions and helping you plan an unforgettable trip to Banff.",
     sections: [
@@ -322,7 +322,7 @@ export const JOURNALS: Journal[] = [
     slug: "bora-bora-paradise",
     title: "Discovering Paradise: Bora Bora Unveiled with Fly with Rabbit",
     destination: "Bora Bora",
-    image: "/images/packages/Kerala.jpg", // Placeholder
+    image: "/images/journals/bora-bora.jpg",
     date: "October 10, 2025",
     intro: "Welcome, fellow adventurers and wanderlust seekers, to another exciting journey brought to you by Fly with Rabbit! Today, we're setting our sights on the mesmerizing island of Bora Bora, a place that has long been synonymous with paradise. This tropical haven, nestled in the heart of the South Pacific, is a dream destination for honeymooners, water sports enthusiasts, and anyone looking to escape into a world of turquoise waters, overwater bungalows, and swaying palm trees.",
     sections: [
@@ -377,7 +377,7 @@ export const JOURNALS: Journal[] = [
     slug: "dubrovnik-pearl-of-adriatic",
     title: "Discovering the Pearl of the Adriatic: A Journey through Dubrovnik",
     destination: "Dubrovnik",
-    image: "/images/packages/Norway.jpg",
+    image: "/images/journals/dubrovnik.jpg",
     date: "September 15, 2025",
     intro: "Welcome, fellow travel enthusiasts, to another exciting adventure with Fly with Rabbit! Today, we're taking you on a virtual journey to the stunning coastal city of Dubrovnik, Croatia. Known as the \"Pearl of the Adriatic,\" Dubrovnik is a place where history, culture, and natural beauty blend seamlessly. Whether you're a Game of Thrones fan eager to explore King's Landing or simply a lover of picturesque landscapes, Dubrovnik has something for everyone.",
     sections: [
@@ -399,7 +399,7 @@ export const JOURNALS: Journal[] = [
     slug: "east-coast-usa",
     title: "Explore the Charm of the East Coast with Fly with Rabbit",
     destination: "East Coast",
-    image: "/images/packages/Norway.jpg",
+    image: "/images/journals/east-coast.jpg",
     date: "August 20, 2025",
     intro: "Welcome, fellow travel enthusiasts, to another exciting journey with Fly with Rabbit! Today, we're embarking on a captivating adventure along the East Coast of the United States. Stretching from the picturesque shores of Maine down to the sun-kissed beaches of Florida, the East Coast is a treasure trove of natural beauty, historic landmarks, and vibrant culture.",
     sections: [
@@ -419,7 +419,7 @@ export const JOURNALS: Journal[] = [
     slug: "edinburgh-scottish-charm",
     title: "Discovering the Charms of Edinburgh: A Traveler's Guide",
     destination: "Edinburgh",
-    image: "/images/packages/Norway.jpg",
+    image: "/images/journals/edinburgh.jpg",
     date: "July 08, 2025",
     intro: "Welcome, fellow wanderers, to another exciting adventure brought to you by Fly with Rabbit! Today, we're delving into the enchanting city of Edinburgh, a place where history meets modernity, and stunning landscapes meet a thriving cultural scene. Edinburgh is a destination that promises to leave you spellbound with its rich heritage, breathtaking vistas, and vibrant festivals.",
     sections: [
@@ -439,7 +439,7 @@ export const JOURNALS: Journal[] = [
     slug: "egypt-ancient-wonders",
     title: "Exploring the Mysteries of Egypt with Fly with Rabbit",
     destination: "Egypt",
-    image: "/images/packages/Egypt.jpg",
+    image: "/images/journals/egypt.jpg",
     date: "June 01, 2025",
     intro: "Welcome, fellow wanderers, to another thrilling adventure with Fly with Rabbit! Today, we embark on a journey to a land where ancient wonders and modern marvels coexist harmoniously – Egypt. This North African gem has long captivated the imagination of travelers worldwide, drawing them in with its rich history, awe-inspiring monuments, and the timeless allure of the Nile River.",
     sections: [
@@ -460,7 +460,7 @@ export const JOURNALS: Journal[] = [
     slug: "fiji-island-paradise",
     title: "Discovering Paradise: A Journey to Fiji Islands with Fly with Rabbit",
     destination: "Fiji",
-    image: "/images/packages/Kerala.jpg",
+    image: "/images/journals/fiji.jpg",
     date: "May 10, 2025",
     intro: "Welcome, fellow adventurers and wanderlust seekers, to another exhilarating expedition brought to you by Fly with Rabbit! Today, we embark on a captivating journey to one of the most exquisite destinations on Earth - the Fiji Islands. Nestled in the heart of the South Pacific, Fiji is a haven for nature lovers, beach bums, and adventure enthusiasts alike.",
     sections: [
@@ -480,7 +480,7 @@ export const JOURNALS: Journal[] = [
     slug: "gangotri-glacier",
     title: "Exploring the Majestic Gangotri Glacier: A Journey to the Abode of Ganga",
     destination: "Gangotri Glacier",
-    image: "/images/packages/Ladakh.jpg",
+    image: "/images/journals/gangotri-glacier.jpg",
     date: "April 22, 2025",
     intro: "Welcome, fellow travelers, to another exciting adventure brought to you by Fly with Rabbit! Today, we embark on a journey to one of the holiest and most pristine destinations in the Indian Himalayas - the Gangotri Glacier. Nestled in the heart of the Garhwal Himalayas in Uttarakhand, this glacier is not just a geographical wonder but also a spiritual and cultural icon in India.",
     sections: [
@@ -498,7 +498,7 @@ export const JOURNALS: Journal[] = [
     slug: "georgia-caucasus-gem",
     title: "Exploring the Gem of the Caucasus: Georgia",
     destination: "Georgia",
-    image: "/images/packages/Jaipur.jpg",
+    image: "/images/journals/georgia.jpg",
     date: "March 15, 2025",
     intro: "Welcome, fellow adventurers, to another exciting journey with Fly with Rabbit! Today, we're taking you to a destination that's not on everyone's radar but should be: the enchanting country of Georgia. Nestled at the crossroads of Eastern Europe and Western Asia, Georgia offers a diverse range of experiences, from its breathtaking landscapes to its rich cultural heritage and delicious cuisine.",
     sections: [
@@ -516,7 +516,7 @@ export const JOURNALS: Journal[] = [
     slug: "gili-island-paradise",
     title: "Explore Paradise: A Gili Island Adventure with Fly with Rabbit",
     destination: "Gili Islands",
-    image: "/images/packages/Kerala.jpg",
+    image: "/images/journals/gili-islands.jpg",
     date: "February 05, 2025",
     intro: "Welcome, fellow travel enthusiasts! It's time to embark on a journey to a slice of paradise in Indonesia, the stunning Gili Islands. Known for their pristine beaches, crystal-clear waters, and vibrant marine life, these islands are a must-visit destination for anyone seeking an unforgettable tropical escape.",
     sections: [
@@ -533,7 +533,7 @@ export const JOURNALS: Journal[] = [
     slug: "greece-ancient-civilization",
     title: "Exploring the Beauty of Greece: A Journey to the Heart of Ancient Civilization",
     destination: "Greece",
-    image: "/images/packages/Egypt.jpg",
+    image: "/images/journals/Greece.jpg",
     date: "January 20, 2025",
     intro: "Welcome, fellow travelers, to another exciting adventure brought to you by Fly with Rabbit! Today, we're embarking on a journey to one of the most enchanting and historically rich destinations in the world, Greece. Known for its breathtaking landscapes, ancient ruins, and vibrant culture, Greece offers a unique blend of history and natural beauty.",
     sections: [
@@ -551,7 +551,7 @@ export const JOURNALS: Journal[] = [
     slug: "havana-timeless-charm",
     title: "Discovering the Timeless Charm of Havana: A Journey Through History",
     destination: "Havana",
-    image: "/images/packages/Egypt.jpg",
+    image: "/images/journals/havana.jpg",
     date: "December 05, 2024",
     intro: "Havana, Cuba. Known for its colorful streets, pulsating music, and intriguing history, Havana has always been a destination that captures the hearts of those who visit. The Cuban capital is a living museum, offering a peek into a bygone era while also embracing modernity with open arms.",
     sections: [
@@ -570,7 +570,7 @@ export const JOURNALS: Journal[] = [
     slug: "ireland-emerald-isle",
     title: "Exploring the Emerald Isle: A Journey through the Heart of Ireland",
     destination: "Ireland",
-    image: "/images/packages/Norway.jpg",
+    image: "/images/journals/ireland.jpg",
     date: "November 18, 2024",
     intro: "We're here to take you on an enchanting journey to the heart of the Emerald Isle - Ireland. This mystical island, with its rolling green hills, captivating history, and warm, welcoming people, has something to offer every traveler.",
     sections: [
@@ -589,7 +589,7 @@ export const JOURNALS: Journal[] = [
     slug: "jaipur-pink-city",
     title: "Discovering the Colours and Culture of Jaipur",
     destination: "Jaipur",
-    image: "/images/packages/Jaipur.jpg",
+    image: "/images/journals/jaipur.jpg",
     date: "October 25, 2024",
     intro: "Known as the \"Pink City\" for its stunning rose-colored architecture, Jaipur is a place where history, tradition, and modernity seamlessly blend. Get ready to explore this fascinating destination, and I'll be your guide to uncover the secrets and stories that make Jaipur a must-visit place.",
     sections: [
@@ -609,7 +609,7 @@ export const JOURNALS: Journal[] = [
     slug: "japan-land-of-rising-sun",
     title: "Journey to the Land of the Rising Sun: Exploring Japan with Fly with Rabbit",
     destination: "Japan",
-    image: "/images/packages/Japan.jpg",
+    image: "/images/journals/japan.jpg",
     date: "September 30, 2024",
     intro: "If you're dreaming of a destination that seamlessly blends ancient traditions with modern marvels, then look no further than Japan. This captivating country, known as the \"Land of the Rising Sun,\" offers a unique blend of history, culture, and natural beauty that's unlike anywhere else in the world.",
     sections: [
@@ -628,7 +628,7 @@ export const JOURNALS: Journal[] = [
     slug: "kailash-mansarovar-sacred-journey",
     title: "Kailash Mansarovar: Journey to the Sacred Abode of Transcendence",
     destination: "Kailash Mansarovar",
-    image: "/images/packages/Ladakh.jpg",
+    image: "/images/journals/kailash-mansarovar.jpg",
     date: "August 12, 2024",
     intro: "The Kailash Mansarovar region stands as an embodiment of spiritual reverence, natural grandeur, and human endurance. Nestled in the remote corners of the Tibetan Plateau, this sacred site has captivated the hearts and minds of pilgrims, adventurers, and spiritual seekers for centuries.",
     sections: [
@@ -644,7 +644,7 @@ export const JOURNALS: Journal[] = [
     slug: "kato-japan-enchanting-charms",
     title: "Exploring the Enchanting Charms of Kato, Japan",
     destination: "Kato, Japan",
-    image: "/images/packages/Japan.jpg",
+    image: "/images/journals/japan.jpg",
     date: "July 15, 2024",
     intro: "Nestled in the heart of Japan, the city of Kato exudes an irresistible blend of tradition and modernity. From its historical landmarks to its vibrant cultural scene, Kato offers a captivating glimpse into the rich tapestry of Japanese heritage.",
     sections: [
@@ -661,7 +661,7 @@ export const JOURNALS: Journal[] = [
     slug: "kerala-gods-own-country",
     title: "Explore God's Own Country: Kerala",
     destination: "Kerala",
-    image: "/images/packages/Kerala.jpg",
+    image: "/images/journals/kerala.jpg",
     date: "June 18, 2024",
     intro: "Are you looking for a destination that offers a unique blend of natural beauty, cultural heritage, and adventure? Look no further than Kerala, a state located on the southwestern coast of India. Known as \"God's Own Country\", Kerala is a tropical paradise that has something to offer for everyone.",
     sections: [
@@ -680,7 +680,7 @@ export const JOURNALS: Journal[] = [
     slug: "koh-samet-hidden-gem",
     title: "Discovering the Tranquility of Koh Samet: Thailand's Hidden Gem",
     destination: "Koh Samet",
-    image: "/images/packages/Kerala.jpg",
+    image: "/images/journals/koh-samet.jpg",
     date: "May 20, 2024",
     intro: "When one thinks of Thailand, bustling markets, vibrant nightlife, and exotic beaches come to mind. However, amidst the hustle and bustle lies a tranquil haven waiting to be explored – Koh Samet. Tucked away in the Gulf of Thailand, this serene island offers a respite from the usual tourist crowds, making it a perfect destination for those seeking relaxation, natural beauty, and a touch of adventure.",
     sections: [
@@ -694,7 +694,7 @@ export const JOURNALS: Journal[] = [
     slug: "koh-samui-enchanting-allure",
     title: "Discovering Paradise: Koh Samui's Enchanting Allure",
     destination: "Koh Samui",
-    image: "/images/packages/Kerala.jpg",
+    image: "/images/journals/koh-samui.jpg",
     date: "April 08, 2024",
     intro: "Nestled in the azure waters of the Gulf of Thailand, Koh Samui stands as a tropical gem, renowned for its pristine beaches, lush rainforests, and vibrant culture. This enchanting island, the second-largest in Thailand, beckons travelers from across the globe with its serene landscapes, diverse attractions, and laid-back ambiance.",
     sections: [
@@ -709,7 +709,7 @@ export const JOURNALS: Journal[] = [
     slug: "ladakh-land-of-passes",
     title: "Exploring Ladakh: A Must-Visit Destination",
     destination: "Ladakh",
-    image: "/images/packages/Ladakh.jpg",
+    image: "/images/journals/ladakh.jpg",
     date: "March 05, 2024",
     intro: "If you're looking for a travel experience that's out of this world, look no further than the breathtaking landscapes of Ladakh. Nestled in the northernmost corner of India, this land of high passes is a traveler's paradise, offering a unique blend of serene landscapes, rich Buddhist culture, and unparalleled adventure.",
     sections: [
@@ -726,7 +726,7 @@ export const JOURNALS: Journal[] = [
     slug: "langkawi-tropical-paradise",
     title: "Exploring the Enchanting Beauty of Langkawi: A Tropical Paradise",
     destination: "Langkawi",
-    image: "/images/packages/Kerala.jpg",
+    image: "/images/journals/langkawi.jpg",
     date: "February 12, 2024",
     intro: "Nestled in the azure waters of the Andaman Sea, Langkawi is a gem of an island located off the northwest coast of Malaysia. Boasting pristine beaches, lush rainforests, and a vibrant cultural scene, Langkawi has earned its reputation as one of Southeast Asia's most sought-after travel destinations.",
     sections: [
@@ -742,7 +742,7 @@ export const JOURNALS: Journal[] = [
     slug: "las-vegas-beyond-glitz",
     title: "Exploring the Enchantment of Las Vegas: Beyond the Glitz and Glamour",
     destination: "Las Vegas",
-    image: "/images/packages/Norway.jpg",
+    image: "/images/journals/las-vegas.jpg",
     date: "January 08, 2024",
     intro: "Las Vegas, often referred to as the \"Entertainment Capital of the World,\" is a city that has captured the imagination of millions. While its reputation for vibrant nightlife, luxurious resorts, and world-class entertainment is well-deserved, there's more to this city than meets the eye.",
     sections: [
@@ -757,7 +757,7 @@ export const JOURNALS: Journal[] = [
     slug: "marrakesh-enchanting-allure",
     title: "Exploring the Enchanting Allure of Marrakesh",
     destination: "Marrakesh",
-    image: "/images/packages/Egypt.jpg",
+    image: "/images/journals/marrakesh.jpg",
     date: "December 15, 2023",
     intro: "Nestled in the heart of Morocco, the city of Marrakesh is a captivating blend of history, culture, and modern vibrancy. Often referred to as the \"Red City\" due to its distinctive red-colored buildings, Marrakesh boasts a rich heritage that dates back centuries. From its bustling markets to its intricate architecture, this city offers a sensory overload that leaves visitors entranced.",
     sections: [
@@ -773,7 +773,7 @@ export const JOURNALS: Journal[] = [
     slug: "masai-mara-wild-africa",
     title: "Exploring the Wildlife Wonders of Masai Mara",
     destination: "Masai Mara",
-    image: "/images/packages/Egypt.jpg",
+    image: "/images/journals/masai-mara.jpg",
     date: "November 10, 2023",
     intro: "The Masai Mara National Reserve in Kenya is one of Africa's most iconic wildlife destinations. It's a place where the circle of life plays out on a grand stage, where the Big Five roam freely, and where the Great Migration of wildebeest takes center stage each year. Join us as we explore the magnificent Masai Mara through questions and answers.",
     sections: [
@@ -790,7 +790,7 @@ export const JOURNALS: Journal[] = [
     slug: "meghalaya-abode-of-clouds",
     title: "Discovering the Magic of Meghalaya: India's Abode of Clouds",
     destination: "Meghalaya",
-    image: "/images/packages/Ladakh.jpg",
+    image: "/images/journals/meghalaya.jpg",
     date: "October 05, 2023",
     intro: "Tucked away in the northeastern corner of India, Meghalaya is a land of enchanting natural beauty and rich cultural heritage. Known as the \"Abode of Clouds,\" this state is a paradise for nature lovers and adventurers alike. Let's embark on a virtual journey to explore the wonders of Meghalaya.",
     sections: [
@@ -807,7 +807,7 @@ export const JOURNALS: Journal[] = [
     slug: "mount-everest-base-camp",
     title: "Conquering the Roof of the World: A Journey to Mount Everest Base Camp",
     destination: "Mount Everest",
-    image: "/images/packages/Ladakh.jpg",
+    image: "/images/journals/mount-everest.jpg",
     date: "September 08, 2023",
     intro: "For many adventure enthusiasts, the dream of standing at the foot of the world's highest peak is a lifelong aspiration. Mount Everest Base Camp, situated at an elevation of 5,364 meters (17,598 feet) above sea level, is the gateway to one of Earth's most challenging and awe-inspiring landscapes.",
     sections: [
@@ -823,7 +823,7 @@ export const JOURNALS: Journal[] = [
     slug: "niagara-falls-natural-wonder",
     title: "Niagara Falls: A Natural Wonder Worth Exploring",
     destination: "Niagara Falls",
-    image: "/images/packages/Norway.jpg",
+    image: "/images/journals/niagara-falls.jpg",
     date: "August 15, 2023",
     intro: "Niagara Falls, one of the world's most iconic natural wonders, is a must-visit destination that never ceases to amaze. Situated on the border between New York, USA, and Ontario, Canada, this breathtaking cascade of waterfalls has been captivating visitors for centuries.",
     sections: [
@@ -840,7 +840,7 @@ export const JOURNALS: Journal[] = [
     slug: "norway-land-of-fjords",
     title: "Exploring the Majesty of Norway: Land of Fjords and Northern Lights",
     destination: "Norway",
-    image: "/images/packages/Norway.jpg",
+    image: "/images/journals/norway.jpg",
     date: "July 20, 2023",
     intro: "Norway, a northern European gem, beckons travelers with its dramatic landscapes, vibrant culture, and a myriad of outdoor adventures. From the iconic fjords to the dancing Northern Lights, this Scandinavian nation offers a unique blend of natural wonders and rich history.",
     sections: [
@@ -857,7 +857,7 @@ export const JOURNALS: Journal[] = [
     slug: "paro-valley-bhutan",
     title: "Exploring the Enchanting Paro Valley: A Journey to Bhutan's Heartland",
     destination: "Paro Valley",
-    image: "/images/packages/Ladakh.jpg",
+    image: "/images/journals/paro-valley.jpg",
     date: "June 25, 2023",
     intro: "Nestled in the heart of the Himalayas, the Paro Valley in Bhutan is a destination that feels like stepping into a fairy tale. Surrounded by towering peaks, lush forests, and pristine rivers, this valley is a sanctuary for those seeking natural beauty, cultural immersion, and spiritual enrichment.",
     sections: [
@@ -872,7 +872,7 @@ export const JOURNALS: Journal[] = [
     slug: "peru-ancient-wonders",
     title: "Discovering the Ancient Wonders of Peru: A Journey Through Time",
     destination: "Peru",
-    image: "/images/packages/Ladakh.jpg",
+    image: "/images/journals/peru.jpg",
     date: "May 28, 2023",
     intro: "Peru, a land of enchanting landscapes, ancient civilizations, and vibrant culture, beckons travelers from around the globe. From the mystical ruins of Machu Picchu to the fascinating Amazon rainforest, Peru offers a diverse range of experiences that leave an indelible mark on the hearts of those who venture here.",
     sections: [
@@ -889,7 +889,7 @@ export const JOURNALS: Journal[] = [
     slug: "phuket-tropical-paradise",
     title: "Discovering the Tropical Paradise of Phuket: A Journey Worth Taking",
     destination: "Phuket",
-    image: "/images/packages/Kerala.jpg",
+    image: "/images/journals/phuket.jpg",
     date: "April 30, 2023",
     intro: "Welcome to Phuket, Thailand's most celebrated island destination. Known for its stunning beaches, vibrant nightlife, and rich cultural experiences, Phuket is a paradise for travelers of all kinds.",
     sections: [
@@ -906,7 +906,7 @@ export const JOURNALS: Journal[] = [
     slug: "pokhara-nepal-paradise",
     title: "Discovering Pokhara: Nepal's Paradise of Natural Beauty",
     destination: "Pokhara",
-    image: "/images/packages/Ladakh.jpg",
+    image: "/images/journals/pokhara.jpg",
     date: "March 22, 2023",
     intro: "Nestled in the lap of the Himalayas, Pokhara is a city of tranquility, natural splendor, and a gateway to adventure. Located in central Nepal, this picturesque city is a haven for travelers seeking respite from the hustle and bustle of modern life.",
     sections: [
@@ -923,7 +923,7 @@ export const JOURNALS: Journal[] = [
     slug: "rann-of-kutch",
     title: "The Rann of Kutch: A Journey into India's White Desert",
     destination: "Rann of Kutch",
-    image: "/images/packages/Jaipur.jpg",
+    image: "/images/journals/rann-of-kutch.jpg",
     date: "February 25, 2023",
     intro: "The Rann of Kutch, a vast salt marsh in the Thar Desert, is one of India's most unique and mesmerizing landscapes. Located in the Kutch district of Gujarat, this breathtaking expanse of white salt flats stretches across approximately 30,000 square kilometers.",
     sections: [
@@ -938,7 +938,7 @@ export const JOURNALS: Journal[] = [
     slug: "rishikesh-yoga-capital",
     title: "Exploring the Spiritual Haven of Rishikesh: Yoga, Adventure, and Serenity",
     destination: "Rishikesh",
-    image: "/images/packages/Ladakh.jpg",
+    image: "/images/journals/rishikesh.jpg",
     date: "January 15, 2023",
     intro: "Nestled in the foothills of the Himalayas, Rishikesh is a city that defies easy categorization. It's a place where spirituality meets adventure, where the ancient harmonizes with the contemporary, and where the Ganges River flows with both holiness and vitality.",
     sections: [
@@ -955,7 +955,7 @@ export const JOURNALS: Journal[] = [
     slug: "rocky-mountain-national-park",
     title: "Exploring the Majesty of Rocky Mountain National Park",
     destination: "Rocky Mountain",
-    image: "/images/packages/Norway.jpg",
+    image: "/images/journals/rocky-mountain.jpg",
     date: "December 10, 2022",
     intro: "Nestled in the heart of Colorado, Rocky Mountain National Park is a haven for outdoor enthusiasts and nature lovers. With its towering peaks, pristine alpine lakes, and diverse wildlife, it's an awe-inspiring destination that never fails to leave visitors breathless.",
     sections: [
@@ -972,7 +972,7 @@ export const JOURNALS: Journal[] = [
     slug: "seoul-modern-ancient",
     title: "Exploring Seoul: Where Ancient Traditions Meet Modern Marvels",
     destination: "Seoul",
-    image: "/images/packages/Japan.jpg",
+    image: "/images/journals/seoul.jpg",
     date: "November 05, 2022",
     intro: "Welcome to the dynamic city of Seoul, South Korea's vibrant capital. From its ancient palaces to its cutting-edge technology and entertainment scene, Seoul offers a fascinating blend of tradition and modernity that captivates travelers from around the world.",
     sections: [
@@ -989,7 +989,7 @@ export const JOURNALS: Journal[] = [
     slug: "st-petersburg-russian-splendor",
     title: "Exploring the Splendor of St. Petersburg: A City of Art, Culture, and History",
     destination: "St. Petersburg",
-    image: "/images/packages/Egypt.jpg",
+    image: "/images/journals/st-petersburg.jpg",
     date: "October 15, 2022",
     intro: "St. Petersburg, Russia's \"Northern Capital,\" is a city that exudes an air of grandeur, history, and artistic richness. Founded by Tsar Peter the Great in 1703, St. Petersburg was designed to be a window to the West, and it fulfilled that ambition magnificently.",
     sections: [
@@ -1006,7 +1006,7 @@ export const JOURNALS: Journal[] = [
     slug: "great-barrier-reef",
     title: "Diving into the Wonders of the Great Barrier Reef",
     destination: "Great Barrier Reef",
-    image: "/images/packages/Kerala.jpg",
+    image: "/images/journals/great-barrier-reef.jpg",
     date: "September 20, 2022",
     intro: "Welcome to one of the most spectacular natural wonders on Earth - the Great Barrier Reef! Located off the northeastern coast of Australia in the Coral Sea, this magnificent underwater world is a UNESCO World Heritage site and the largest coral reef system on the planet.",
     sections: [
