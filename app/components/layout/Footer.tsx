@@ -90,12 +90,12 @@ export default function Footer() {
       </div>
 
       {/* Passport Stamps Row */}
-      <div className="absolute flex justify-between md:justify-around items-end bottom-0 left-0 w-full px-4 md:px-12 pb-2 md:pb-6 pointer-events-none z-20 opacity-40">
-        <Image src="/images/stamp/stampone.png" width={150} height={150} alt="Travel Stamp" className="w-16 md:w-28 lg:w-36 h-auto transform -rotate-12 translate-y-4 md:translate-y-2" />
-        <Image src="/images/stamp/stamptwo.webp" width={150} height={150} alt="Travel Stamp" className="w-20 md:w-32 lg:w-40 h-auto transform rotate-6 -translate-y-2 md:-translate-y-6" />
-        <Image src="/images/stamp/stampthree.webp" width={150} height={150} alt="Travel Stamp" className="hidden sm:block w-16 md:w-28 lg:w-36 h-auto transform -rotate-6 translate-y-4 md:translate-y-8" />
-        <Image src="/images/stamp/stampfour.png" width={150} height={150} alt="Travel Stamp" className="w-24 md:w-36 lg:w-48 h-auto transform flex-shrink-0 rotate-12 translate-y-2 md:translate-y-0" />
-        <Image src="/images/stamp/stampfive.png" width={150} height={150} alt="Travel Stamp" className="hidden md:block w-16 md:w-28 lg:w-36 h-auto transform -rotate-3 -translate-y-2" />
+      <div className="absolute flex justify-between md:justify-around items-end bottom-0 left-0 w-full px-2 sm:px-4 md:px-12 pb-4 md:pb-8 pointer-events-none z-20 opacity-40">
+        <Image src="/images/stamp/stampone.png" width={150} height={150} alt="Travel Stamp" className="w-10 sm:w-16 md:w-28 lg:w-36 h-auto transform -rotate-12" />
+        <Image src="/images/stamp/stamptwo.webp" width={150} height={150} alt="Travel Stamp" className="w-12 sm:w-20 md:w-32 lg:w-40 h-auto transform rotate-6 -translate-y-4 md:-translate-y-8" />
+        <Image src="/images/stamp/stampthree.webp" width={150} height={150} alt="Travel Stamp" className="w-10 sm:w-16 md:w-28 lg:w-36 h-auto transform -rotate-6" />
+        <Image src="/images/stamp/stampfour.png" width={150} height={150} alt="Travel Stamp" className="w-14 sm:w-24 md:w-36 lg:w-48 h-auto transform shrink-0 rotate-12 -translate-y-2 md:-translate-y-4" />
+        <Image src="/images/stamp/stampfive.png" width={150} height={150} alt="Travel Stamp" className="w-10 sm:w-16 md:w-28 lg:w-36 h-auto transform -rotate-3 -translate-y-6 md:-translate-y-10" />
       </div>
 
     </footer>
